@@ -1,0 +1,20 @@
+<channel id="ITV1.uk">
+<display-name>ITV</display-name>
+<icon src="https://i.imgur.com/yrNhtPM.png"/>
+<url>https://virginmedia.com</url>
+</channel>
+<channel id="BBCTwoEngland.uk">
+<display-name>BBC Two England</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"/>
+<url>https://virginmedia.com</url>
+</channel>
+<channel id="BBCOneWestMidlands.uk">
+<display-name>BBC One West Midlands</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"/>
+<url>https://sky.com</url>
+</channel>
+<channel id="BBCOneEngland.uk">
+<display-name>BBC One England</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"/>
+<url>https://tv24.co.uk</url>
+</channel>
