@@ -7,7 +7,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ITV1_2022.svg/revision/latest?cb=20221115050938" group-title="General",ITV1
+#EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://cleanfeed.thetvroom.com/media/2022/10/itv-1-logo-001-01-1.png" group-title="General",ITV1 HD
 https://cdnuk001.broadcastcdn.net/KUK-ITV-107/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s15/index.m3u8
