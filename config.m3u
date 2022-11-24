@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://experiencersinternational.github.io/tvsetup/epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk.xml"
 
 #EXTINF:-1 tvg-id="BBCOneWestMidlands.uk" tvg-logo="" group-title="General",BBC One West Midlands
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
