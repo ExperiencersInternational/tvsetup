@@ -1,6 +1,6 @@
 # TV Setup
 
-This programming guide is only useful for the UK West Midlands/South West regions, particularly Gloucestershire. Some channels may not play due to being geo-blocked. Planning to use personally when switching to an Android TV.
+UK IPTV programming guide. All channels currently should work, but depending on your viewer, the last channel may not work, and BBC One West Midlands may not work due to geo-restrictions.
 
 This guide is based off the Freeview guide, but may include radio stations as well. EPG currently won't work on this by the way.
 
