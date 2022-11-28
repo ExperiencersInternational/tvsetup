@@ -10,8 +10,6 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
 #EXTINF:4 tvg-id="Channel4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/756px-Channel_4_2022.svg.png" group-title="General",Channel 4 HD
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
-#EXTINF:5 tvg-id="Channel5.uk" tvg-logo="" group-title="General",Channel 5 HD experimental
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL5/tracks-v1a1/mono.m3u8
 #EXTINF:6 tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ITV2_logo_%282022%29.svg/1280px-ITV2_logo_%282022%29.svg.png", ITV2 SD
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
 #EXTINF:7 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Undefined",BBC Three SD
