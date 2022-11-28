@@ -16,6 +16,8 @@ https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:10 tvg-id="ITV3.uk" tvg-logo="", ITV3 SD
 https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/playlist.m3u8
+#EXTINF:11 tvg-id="E4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/e4-hd.png" group-title="General",E4 SD
+https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s15/index.m3u8
