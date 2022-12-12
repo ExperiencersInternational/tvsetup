@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk.xml"
 
-#EXTINF:1 tvg-id="BBCOneWestMidlands.uk" tvg-logo="" group-title="General",BBC One West Midlands
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:101 tvg-id="BBCOneEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:2 tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD
@@ -30,6 +28,8 @@ https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
 #EXTINF:26 tvg-id="ITVBe.uk" status="blocked",ITVBe
 https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
+#EXTINF:34 tvg-id="ITV1Plus1.uk" tvg-logo="" group-title="General",ITV1 +1
+https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s15/index.m3u8
