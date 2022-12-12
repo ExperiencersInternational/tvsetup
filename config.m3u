@@ -24,6 +24,8 @@ https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/mono.m3u8
 #EXTINF:14 tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png" group-title="General",More4
 https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
+#EXTINF:16 tvg-id="QVC.uk" group-title="Shopping" tvg-logo="https://i.imgur.com/m1xhwRa.png",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:19 tvg-id="4Music.uk" status="timeout",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:23 tvg-id="ITV4.uk" status="timeout",ITV4
