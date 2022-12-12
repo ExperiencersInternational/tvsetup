@@ -37,7 +37,7 @@ https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
 
 #EXTINF:701 tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:702 tvg-id="BBCRadio2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png" group-title="bbc",BBC Radio 2
+#EXTINF:702 tvg-id="BBCRadio2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png" group-title="Radio",BBC Radio 2
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
