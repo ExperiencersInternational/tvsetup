@@ -40,4 +40,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 #EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png" group-title="Radio",BBC Radio 2
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 
+#EXTINF:-1 tvg-chno="800" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",Information
+https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
