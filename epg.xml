@@ -14,6 +14,9 @@
 <channel id="BBCRadio3.uk">
 <display-name>BBC Radio 3</display-name>
 </channel>
+<channel id="BBCRadio4.uk">
+<display-name>BBC Radio 4</display-name>
+</channel>
 <channel id="BBCRadioGloucestershire.uk">
 <display-name>BBC Radio Gloucestershire</display-name>
 </channel>
@@ -33,32 +36,38 @@
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio1.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
-<category lang="en">Music</category>
+<category lang="en">Music,Radio</category>
 </programme>
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio1Xtra.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
-<category lang="en">Music</category>
+<category lang="en">Music,Radio</category>
 </programme>
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio2.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
-<category lang="en">Music</category>
+<category lang="en">Music,Radio</category>
 </programme>
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio3.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
-<category lang="en">Music</category>
+<category lang="en">Music,Radio</category>
 </programme>
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio4.uk">
+<title lang="en">This channel has no EPG support yet</title>
+<desc lang="en">To view programming, please visit the BBC website.</desc>
+<category lang="en">Radio</category>
+</programme>
+
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadioGloucestershire.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being a local radio station. In that case, resort to streaming via BBC Sounds or FM/AM/DAB.</desc>
-<category lang="en">Music</category>
+<category lang="en">Music,Radio</category>
 </programme>
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadioDerby.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being a local radio station. In that case, resort to streaming via BBC Sounds or FM/AM/DAB.</desc>
-<category lang="en">Music</category>
+<category lang="en">Music,Radio</category>
 </programme>
 
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="QVC.uk">
