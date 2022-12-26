@@ -14,4 +14,4 @@ Here is a few basic things to take note of when contributing:
 - DO NOT add any pay channels (e.g. Sky One), else this risks me getting a cease and desist since I'm not operating free to air channels only
 - Please order it as close to the Freeview guide as possible, if the free to air channel is not usually in the Freeview guide, always place it at the bottom
 - Please only add channels in the highest quality you can find
-- No region-specific channels, apart from radio (e.g. BBC blocks some radio shows out when viewing on the internet)
+- If you're adding a regional specific channel, stick to some number post-800. For radio, you should instead use something like 735-1 (BBC Radio Gloucestershire), since it helps separate the different regions
