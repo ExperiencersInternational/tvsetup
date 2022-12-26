@@ -45,7 +45,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 #EXTINF:-1 tvg-chno="735-1" tvg-id="BBCRadioGloucestershire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
-#EXTINF:-1 tvg-chno="735-2" tvg-id="BBCRadioDerby.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
+#EXTINF:-1 tvg-chno="735-2" tvg-id="BBCRadioDerby.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Derby_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
 
 #EXTINF:-1 tvg-chno="800" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",Information
