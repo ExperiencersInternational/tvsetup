@@ -37,8 +37,14 @@ https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png" group-title="Radio",BBC Radio 2
+#EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio1Xtra.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1280px-BBC_Radio_1Xtra_2021.svg.png" group-title="Radio",BBC Radio 1Xtra
+https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
+#EXTINF:-1 tvg-chno="702" tvg-id="BBCRadio2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png" group-title="Radio",BBC Radio 2
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1 tvg-chno="703" tvg-id="BBCRadio3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/1280px-BBC_Radio_3_2022.svg.png" group-title="Radio",BBC Radio 3
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1 tvg-chno="735" tvg-id="BBCRadioGloucestershire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
 
 #EXTINF:-1 tvg-chno="800" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",Information
 https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
