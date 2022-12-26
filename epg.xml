@@ -2,8 +2,35 @@
 <channel id="Information.uk">
 <display-name>IPTV Information</display-name>
 </channel>
-<programme start="20221226110000 +0000" stop="20231226113000 +0000" channel="Information.uk">
+<channel id="BBCRadio1.uk">
+<display-name>BBC Radio 1</display-name>
+</channel>
+<channel id="BBCRadio2.uk">
+<display-name>BBC Radio 2</display-name>
+</channel>
+<channel id="QVC.uk">
+<display-name>QVC</display-name>
+</channel>
+
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="Information.uk">
 <title lang="en">Learn more about this free IPTV service</title>
 <desc lang="en">Learn information on why channels may not be working and how you can contribute to add channels.</desc>
 <category lang="en">Information</category>
+</programme>
+
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio1.uk">
+<title lang="en">This channel has no EPG support yet</title>
+<desc lang="en">To view programming, please visit the BBC website.</desc>
+<category lang="en">Music</category>
+</programme>
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadio2.uk">
+<title lang="en">This channel has no EPG support yet</title>
+<desc lang="en">To view programming, please visit the BBC website.</desc>
+<category lang="en">Music</category>
+</programme>
+
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="QVC.uk">
+<title lang="en">This channel has no EPG support yet</title>
+<desc lang="en">To view programming, please visit the QVC website.</desc>
+<category lang="en">Shopping</category>
 </programme>
