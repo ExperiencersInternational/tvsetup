@@ -50,6 +50,8 @@ https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-DMAX/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="CBSRealityUK.uk" status="blocked",CBS Reality IE
 https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/playlist.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="Blaze.uk" status="blocked",Blaze
+https://cdnuk001.broadcastcdn.net/KUK-BLAZE/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
