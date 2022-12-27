@@ -2,6 +2,8 @@
 
 UK IPTV programming guide. All channels currently should work, but depending on your viewer, the last channel may not work, and some others may not work due to geo-restrictions. Radio channels may also cause your app to not function correctly, in that case, I'd recommend forking and removing all radio channels.
 
+33 channels and counting, from TV to Radio.
+
 This guide is based off the Freeview guide, but may include radio stations and extra channels not found on Freeview as well. EPG currently won't work on this by the way, I have no idea how to fix this at the moment.
 
 Edit: If you're using TVirl on a Android TV device, you should be able to add the EPG from IPTV-org and everything should work except radio (link https://iptv-org.github.io/epg/guides/UK.xml).
@@ -20,3 +22,5 @@ Here is a few basic things to take note of when contributing:
 
 This service is fully based around the TVirl app for Android TV, it works with all of the features in here perfectly.
 You should steer away from the IPTV smarters pro app for mobile (in fact, plain old VLC is probably better), EPG doesn't work as far as I can see with no subscription, channels don't scan properly and some don't play properly.
+
+In order to get correct channel ordering, make sure tvg-chno is used for channel ordering.
