@@ -16,23 +16,23 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="ITV3.uk" tvg-logo="", ITV3 SD
 https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="Davejavu.uk" status="blocked",Dave ju vu
+#EXTINF:-1 tvg-chno="19" tvg-id="Davejavu.uk" status="blocked",Dave ju vu
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="E4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/e4-hd.png" group-title="General",E4 SD
+#EXTINF:-1 tvg-chno="13" tvg-id="E4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/e4-hd.png" group-title="General",E4 SD
 https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="Channel4Plus1.uk" tvg-logo="" group-title="General",Channel 4+1
+#EXTINF:-1 tvg-chno="15" tvg-id="Channel4Plus1.uk" tvg-logo="" group-title="General",Channel 4+1
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png" group-title="General",More4
+#EXTINF:-1 tvg-chno="18" tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png" group-title="General",More4
 https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="QVC.uk" group-title="Shopping" tvg-logo="https://i.imgur.com/m1xhwRa.png",QVC
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="4Music.uk" status="timeout",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 tvg-chno="23" tvg-id="ITV4.uk" status="timeout",ITV4
+#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" status="timeout",ITV4
 https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="ITVBe.uk" status="blocked",ITVBe
+#EXTINF:-1 tvg-chno="28" tvg-id="ITVBe.uk" status="blocked",ITVBe
 https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="ITV1Plus1.uk" tvg-logo="" group-title="General",ITV1 +1
+#EXTINF:-1 tvg-chno="35" tvg-id="ITV1Plus1.uk" tvg-logo="" group-title="General",ITV1 +1
 https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
@@ -44,7 +44,11 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 #EXTINF:-1 tvg-chno="703" tvg-id="BBCRadio3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/1280px-BBC_Radio_3_2022.svg.png" group-title="Radio",BBC Radio 3
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 #EXTINF:-1 tvg-chno="704" tvg-id="BBCRadio4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_Radio_4_2022.svg/1280px-BBC_Radio_4_2022.svg.png" group-title="Radio",BBC Radio 4
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_four
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+
+#EXTINF:-1 tvg-chno="728" tvg-id="Heart.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png" group-title="Radio,Music",Heart London
+http://media-ice.musicradio.com/HeartLondon
+
 #EXTINF:-1 tvg-chno="735-1" tvg-id="BBCRadioGloucestershire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
 #EXTINF:-1 tvg-chno="735-2" tvg-id="BBCRadioDerby.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Derby_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
