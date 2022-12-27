@@ -60,10 +60,12 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_h
 #EXTINF:-1 tvg-chno="203" tvg-id="CITV.uk" group-title="Children" status="blocked",CITV
 https://cdnuk001.broadcastcdn.net/KUK-CITV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" status="online",BBC News
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" group-title="News" status="online",BBC News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" status="blocked",BBC Parliament
+#EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" status="blocked",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="802" tvg-id="BBCWorldNewsEurope.uk" group-title="News" status="blocked",BBC World News Europe
+http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
