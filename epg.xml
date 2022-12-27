@@ -2,6 +2,9 @@
 <channel id="Information.uk">
 <display-name>IPTV Information</display-name>
 </channel>
+<channel id="UpdateStationV1.uk">
+<display-name>Update Station</display-name>
+</channel>
 <channel id="BBCRadio1.uk">
 <display-name>BBC Radio 1</display-name>
 </channel>
@@ -82,5 +85,11 @@
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="QVC.uk">
 <title lang="en">Update your EPG to receive channel listings</title>
 <desc lang="en">If you're seeing this, your Electronic Program Guide is out of date. Consider updating it to get correct listings for this channel.</desc>
+<category lang="en">Shopping</category>
+</programme>
+
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="UpdateStationV1.uk">
+<title lang="en">Your listings are up to date</title>
+<desc lang="en">This channel is a static channel with no video, used for notifying whether users need to update their EPG. You're all up to date currently.</desc>
 <category lang="en">Shopping</category>
 </programme>
