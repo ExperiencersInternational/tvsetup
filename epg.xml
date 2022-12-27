@@ -91,5 +91,5 @@
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="UpdateStationV1.uk">
 <title lang="en">Your listings are up to date</title>
 <desc lang="en">This channel is a static channel with no video, used for notifying whether users need to update their EPG. You're all up to date currently.</desc>
-<category lang="en">Shopping</category>
+<category lang="en">Data</category>
 </programme>
