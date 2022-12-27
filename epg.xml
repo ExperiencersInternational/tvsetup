@@ -23,6 +23,9 @@
 <channel id="BBCRadioDerby.uk">
 <display-name>BBC Radio Derby</display-name>
 </channel>
+<channel id="Heart.uk">
+<display-name>Heart London</display-name>
+</channel>
 <channel id="QVC.uk">
 <display-name>QVC</display-name>
 </channel>
@@ -59,14 +62,20 @@
 <category lang="en">Radio</category>
 </programme>
 
+<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="Heart.uk">
+<title lang="en">This channel has no EPG support yet</title>
+<desc lang="en">To view programming, please visit the Global Player or Heart websites. More regional programming can be found, but I decided to steer away from it and use the London feed.</desc>
+<category lang="en">Radio</category>
+</programme>
+
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadioGloucestershire.uk">
 <title lang="en">This channel has no EPG support yet</title>
-<desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or FM/AM/DAB.</desc>
+<desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or the relevant FM/AM/DAB channels.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="BBCRadioDerby.uk">
 <title lang="en">This channel has no EPG support yet</title>
-<desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or FM/AM/DAB.</desc>
+<desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or the relevant FM/AM/DAB channels.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
 
