@@ -80,7 +80,7 @@
 </programme>
 
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="QVC.uk">
-<title lang="en">This channel has no EPG support yet</title>
-<desc lang="en">To view programming, please visit the QVC website.</desc>
+<title lang="en">Update your EPG to receive channel listings</title>
+<desc lang="en">If you're seeing this, your Electronic Program Guide is out of date. Consider updating it to get correct listings for this channel.</desc>
 <category lang="en">Shopping</category>
 </programme>
