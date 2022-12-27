@@ -7,9 +7,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-chno="3" tvg-id="ITV1.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/itv-hd.png?style=content-station-logo-large" group-title="General",ITV1 HD
 https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4 HD
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ITV2_logo_%282022%29.svg/1280px-ITV2_logo_%282022%29.svg.png", ITV2
-https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Undefined",BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="BBCFour.uk" status="blocked",BBC Four
@@ -74,5 +74,14 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
 
 #EXTINF:-1 tvg-chno="800" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",Information
 https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
+
+#EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" status="blocked",S4C (Welsh)
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-chno="910" tvg-id="STV.uk" status="timeout",STV
+https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
+#EXTINF:-1 tvg-chno="911" tvg-id="STVPlus1.uk" status="timeout",STV+1
+https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8
+#EXTINF:-1 tvg-chno="912" tvg-id="BBCAlba.uk" status="blocked",BBC Alba (Gaelic)
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
