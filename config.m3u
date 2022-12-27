@@ -46,6 +46,8 @@ https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="FoodNetwork.uk" status="blocked",Food Network
 https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/playlist.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="DMAX.uk" status="blocked",DMAX
+https://cdnuk001.broadcastcdn.net/KUK-DMAX/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
