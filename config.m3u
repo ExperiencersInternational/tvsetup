@@ -40,7 +40,8 @@ https://cdnuk001.broadcastcdn.net/KUK-DAVE/index.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Really.uk" status="blocked",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/index.m3u8
-
+#EXTINF:-1 tvg-chno="27" tvg-id="Yesterday.uk" status="blocked",Yesterday
+https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/index.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
