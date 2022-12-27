@@ -6,6 +6,8 @@ UK IPTV programming guide. All channels currently should work, but depending on 
 
 This guide is based off the Freeview guide, but may include radio stations and extra channels not found on Freeview as well. EPG currently doesn't show info for radio channels, if you can't see any EPG info whatsoever, try using a different app.
 
+Important: CBS Reality seems to use an Irish stream from what I've seen, but all content should still be in English and follow the UK EPG.
+
 Enter experiencersinternational.github.io/tvsetup/config.m3u in your IPTV app to start receiving TV through the internet. You may also have to add the EPG URL listed above.
 
 ## Contributors
