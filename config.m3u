@@ -66,6 +66,10 @@ https://cdnuk001.broadcastcdn.net/KUK-TOGETHER/tracks-v1a1/playlist.m3u8
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="805" tvg-id="Now80s.uk" group-title="Music",Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty (limited)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="General",QVC Style (limited)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -82,11 +86,11 @@ https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/tracks-v1a1/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" status="blocked",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="802" tvg-id="BBCWorldNewsEurope.uk" group-title="News" status="blocked",BBC World News Europe
+#EXTINF:-1 tvg-chno="802" tvg-id="BBCWorldNewsEurope.uk" group-title="News" status="blocked",BBC World News Europe (limited)
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-id="GBNews.uk" group-title="News",GBNews
 https://cdnuk001.broadcastcdn.net/KUK-GBNEWS/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="233" tvg-id="SkyNews.uk" group-title="News",Sky News
+#EXTINF:-1 tvg-chno="233" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
