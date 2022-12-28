@@ -58,9 +58,10 @@ https://cdnuk001.broadcastcdn.net/KUK-BLAZE/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="Film4.uk" group-title="Film",Film4
 https://cdnuk001.broadcastcdn.net/KUK-FILM4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="803" tvg-id="HorrorXtra.uk" group-title="General",HorrorXtra
+#EXTINF:-1 tvg-chno="803" tvg-id="HorrorXtra.uk" group-title="Film",HorrorXtra
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/tracks-v1a1/playlist.m3u8
-
+#EXTINF:-1 tvg-chno="83" tvg-id="TogetherTV.uk" group-title="General",Together TV
+https://cdnuk001.broadcastcdn.net/KUK-TOGETHER/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -70,6 +71,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_h
 https://cdnuk001.broadcastcdn.net/KUK-CITV/playlist.m3u8
 #EXTINF:-1 tvg-chno="804" tvg-id="PopMax.uk" group-title="Children",POP Max
 https://cdnuk001.broadcastcdn.net/KUK-POPMAX/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="TinyPop.uk" group-title="Children",Tiny POP
+https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" group-title="News" status="online",BBC News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
