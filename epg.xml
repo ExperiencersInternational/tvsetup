@@ -29,9 +29,6 @@
 <channel id="Heart.uk">
 <display-name>Heart London</display-name>
 </channel>
-<channel id="QVC.uk">
-<display-name>QVC</display-name>
-</channel>
 
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="Information.uk">
 <title lang="en">Learn more about this free IPTV service</title>
@@ -80,12 +77,6 @@
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or the relevant FM/AM/DAB/Freeview channels.</desc>
 <category lang="en">Music,Radio</category>
-</programme>
-
-<programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="QVC.uk">
-<title lang="en">Update your EPG to receive channel listings</title>
-<desc lang="en">If you're seeing this, your Electronic Program Guide is out of date. Consider updating it to get correct listings for this channel.</desc>
-<category lang="en">Shopping</category>
 </programme>
 
 <programme start="20221226110000 +0000" stop="20230326113000 +0000" channel="UpdateStationV1.uk">
