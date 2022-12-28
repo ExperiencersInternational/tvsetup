@@ -62,6 +62,8 @@ https://cdnuk001.broadcastcdn.net/KUK-FILM4/tracks-v1a1/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="TogetherTV.uk" group-title="General",Together TV
 https://cdnuk001.broadcastcdn.net/KUK-TOGETHER/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="PBSAmerica.uk" group-title="General",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -82,6 +84,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parlia
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-id="GBNews.uk" group-title="News",GBNews
 https://cdnuk001.broadcastcdn.net/KUK-GBNEWS/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="SkyNews.uk" group-title="News",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
