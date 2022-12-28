@@ -68,6 +68,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="CITV.uk" group-title="Children" status="blocked",CITV
 https://cdnuk001.broadcastcdn.net/KUK-CITV/playlist.m3u8
+#EXTINF:-1 tvg-chno="804" tvg-id="PopMax.uk" group-title="Children",POP Max
+https://cdnuk001.broadcastcdn.net/KUK-POPMAX/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" group-title="News" status="online",BBC News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
