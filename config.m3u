@@ -4,10 +4,12 @@
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="ITV1.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/itv-hd.png?style=content-station-logo-large" group-title="General",ITV1 HD
+#EXTINF:-1 tvg-chno="3" tvg-id="ITV1.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/itv-hd.png?style=content-station-logo-large" group-title="General",ITV1
 https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4 HD
+#EXTINF:-1 tvg-chno="4" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="General",Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ITV2_logo_%282022%29.svg/1280px-ITV2_logo_%282022%29.svg.png", ITV2
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Undefined",BBC Three
