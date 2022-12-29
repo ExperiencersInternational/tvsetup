@@ -70,6 +70,8 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="General",QVC Style (limited)
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
+https://cdnuk001.broadcastcdn.net/KUK-GEMSTV/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
