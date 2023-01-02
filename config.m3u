@@ -121,9 +121,9 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 #EXTINF:-1 tvg-chno="728" tvg-id="Heart.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png" group-title="Radio,Music",Heart London
 http://media-ice.musicradio.com/HeartLondon
 
-#EXTINF:-1 tvg-chno="735-1" tvg-id="BBCRadioGloucestershire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
+#EXTINF:-1 tvg-chno="735-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
-#EXTINF:-1 tvg-chno="735-2" tvg-id="BBCRadioDerby.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Derby_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
+#EXTINF:-1 tvg-chno="735-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Derby_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
 
 #EXTINF:-1 tvg-chno="500" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",Information
