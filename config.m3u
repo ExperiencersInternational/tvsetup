@@ -121,6 +121,28 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 #EXTINF:-1 tvg-chno="728" tvg-id="Heart.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png" group-title="Radio,Music",Heart London
 http://media-ice.musicradio.com/HeartLondon
 
+#EXTINF:-1 tvg-chno="720-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BBC_Hereford_%26_Worcester_2022.svg/1280px-BBC_Hereford_%26_Worcester_2022.svg.png" group-title="Radio",BBC Radio Hereford and Worcester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester
+#EXTINF:-1 tvg-chno="720-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Cymru_2022.svg/1280px-BBC_Radio_Cymru_2022.svg.png" group-title="Radio",BBC Radio Cymru (Welsh)
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru
+#EXTINF:-1 tvg-chno="720-3" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BBC_Radio_Devon_2022.svg/1280px-BBC_Radio_Devon_2022.svg.png" group-title="Radio",BBC Radio Devon
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon
+#EXTINF:-1 tvg-chno="720-4" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BBC_Radio_Foyle_2022.svg/1280px-BBC_Radio_Foyle_2022.svg.png" group-title="Radio",BBC Radio Foyle
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+#EXTINF:-1 tvg-chno="720-5" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BBC_Radio_Lancashire_2022.svg/1280px-BBC_Radio_Lancashire_2022.svg.png" group-title="Radio",BBC Radio Lancashire
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
+#EXTINF:-1 tvg-chno="720-6" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBC_Radio_nan_G%C3%A0idheal_2022.svg/1280px-BBC_Radio_nan_G%C3%A0idheal_2022.svg.png" group-title="Radio",BBC Radio nan Gàidheal (Gaelic)
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal
+#EXTINF:-1 tvg-chno="720-7" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BBC_Radio_Nottingham_2022.svg/1280px-BBC_Radio_Nottingham_2022.svg.png" group-title="Radio",BBC Radio Nottingham
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham
+#EXTINF:-1 tvg-chno="720-8" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BBC_Radio_Suffolk_2022.svg/1280px-BBC_Radio_Suffolk_2022.svg.png" group-title="Radio",BBC Radio Suffolk
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk
+#EXTINF:-1 tvg-chno="720-9" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_Radio_Sussex_2022.svg/1280px-BBC_Radio_Sussex_2022.svg.png" group-title="Radio",BBC Radio Sussex
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex
+#EXTINF:-1 tvg-chno="720-10" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BBC_Radio_York_2022.svg/1280px-BBC_Radio_York_2022.svg.png" group-title="Radio",BBC Radio York
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_york
+#EXTINF:-1 tvg-chno="720-11" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BBC_Three_Counties_Radio_2022.svg/1280px-BBC_Three_Counties_Radio_2022.svg.png" group-title="Radio",BBC Radio Three Counties 
+http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio
 #EXTINF:-1 tvg-chno="735-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
 #EXTINF:-1 tvg-chno="735-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Derby_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
