@@ -26,11 +26,8 @@
 <channel id="BBCRadio5Live.uk">
 <display-name>BBC Radio 5 Live</display-name>
 </channel>
-<channel id="BBCRadioGloucestershire.uk">
-<display-name>BBC Radio Gloucestershire</display-name>
-</channel>
-<channel id="BBCRadioDerby.uk">
-<display-name>BBC Radio Derby</display-name>
+<channel id="BBCLocalRadio.uk">
+<display-name>BBC Local Radio</display-name>
 </channel>
 <channel id="Heart.uk">
 <display-name>Heart London</display-name>
@@ -89,12 +86,7 @@
 <category lang="en">Radio</category>
 </programme>
 
-<programme start="20221226110000 +0000" stop="20230126113000 +0000" channel="BBCRadioGloucestershire.uk">
-<title lang="en">This channel has no EPG support yet</title>
-<desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or the relevant FM/AM/DAB/Freeview channels.</desc>
-<category lang="en">Music,Radio</category>
-</programme>
-<programme start="20221226110000 +0000" stop="20230126113000 +0000" channel="BBCRadioDerby.uk">
+<programme start="20221226110000 +0000" stop="20230126113000 +0000" channel="BBCLocalRadio.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or the relevant FM/AM/DAB/Freeview channels.</desc>
 <category lang="en">Music,Radio</category>
