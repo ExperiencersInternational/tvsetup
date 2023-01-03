@@ -2,11 +2,11 @@
 
 UK IPTV programming guide. All channels currently should work, but depending on your viewer, the last channel may not work, and some others may not work due to geo-restrictions. Radio channels may also cause your app to not function correctly, in that case, I'd recommend forking and removing all radio channels.
 
-56 channels and counting, from TV to Radio.
+70 channels and counting, from TV to Radio.
 
 This guide is based off the Freeview guide, but may include radio stations and extra channels not found on Freeview as well. EPG currently doesn't show info for radio channels, if you can't see any EPG info whatsoever, try using a different app.
 
-Important: CBS Reality seems to use an Irish stream from what I've seen, but all content should still be in English and follow the UK EPG.
+Important: CBS Reality seems to use an Irish stream from what I've seen, but all content should still be in English and follow the UK EPG. Also important: Live Channels using tvg-chno may not function correctly when trying to type channels like 720-11 into the app, despite it showing the channel number correctly.
 
 Enter experiencersinternational.github.io/tvsetup/config.m3u in your IPTV app to start receiving TV through the internet. You may also have to add the EPG URL listed above.
 
