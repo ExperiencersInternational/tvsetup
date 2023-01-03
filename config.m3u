@@ -19,11 +19,11 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 #EXTINF:-1 tvg-chno="10" tvg-id="ITV3.uk" tvg-logo="", ITV3
 https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-id="Davejavu.uk" status="blocked",Dave ja vu
-https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/playlist.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="E4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/e4-hd.png" group-title="General",E4 SD
-https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/mono.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Channel4Plus1.uk" tvg-logo="" group-title="General",Channel 4+1
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/mono.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png" group-title="General",More4
 https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://i.imgur.com/m1xhwRa.png",QVC
@@ -37,15 +37,15 @@ https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ITV1Plus1.uk" tvg-logo="" group-title="General",ITV1 +1
 https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="Dave.uk" status="blocked",Dave
-https://cdnuk001.broadcastcdn.net/KUK-DAVE/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="Drama.uk" status="blocked",Drama
-https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-DRAMA/playlist.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="Really.uk" status="blocked",Really
-https://cdnuk001.broadcastcdn.net/KUK-REALLY/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-REALLY/playlist.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="Yesterday.uk" status="blocked",Yesterday
-https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/playlist.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="Challenge.uk" status="blocked",Challenge
-https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/playlist.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="FoodNetworkUK.uk" status="blocked",Food Network
 https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="DMAXUK.uk" status="blocked",DMAX
