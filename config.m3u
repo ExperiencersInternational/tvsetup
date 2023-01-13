@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://experiencersinternational.github.io/tvsetup/epg.xml"
 
-#EXTINF:-1 tvg-chno="1" tvg-id="BBCOneEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD
+#EXTINF:-1 tvg-chno="1" tvg-id="BBCOneEngland.uk" tvg-logo="https://gist.github.com/ExperiencersInternational/5b7b5213d69cda49281d081632dbc751/raw/1a9e1deff5e86ccddd0f4aaee54b6a1fb8ebde93/bbc1-epg.svg" group-title="General",BBC One HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
