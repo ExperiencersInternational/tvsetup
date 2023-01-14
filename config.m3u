@@ -76,6 +76,8 @@ https://cdnuk001.broadcastcdn.net/KUK-GEMSTV/tracks-v1a1/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
 #EXTINF:-1 tvg-chno="85" tvg-id="CreateandCraft.uk" group-title="Shopping",Create & Craft
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-chno="807" tvg-id="RTUK.uk" group-title="News",RT UK
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
