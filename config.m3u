@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml,https://experiencersinternational.github.io/tvsetup/epg.xml"
 
-#EXTINF:-1 tvg-chno="1" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
+#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
+#EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-rec="3" tvg-id="ITV1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1-epg.png" group-title="General",ITV1
+#EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="ITV1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1-epg.png" group-title="General",ITV1
 https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-rec="3" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4
+#EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-rec="3" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="General",Channel 5
+#EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="General",Channel 5
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ITV2_logo_%282022%29.svg/1280px-ITV2_logo_%282022%29.svg.png", ITV2
+#EXTINF:-1 tvg-chno="6" tvg-rec="28" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ITV2_logo_%282022%29.svg/1280px-ITV2_logo_%282022%29.svg.png", ITV2
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-rec="3" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
+#EXTINF:-1 tvg-chno="7" tvg-rec="28" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four
+#EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="ITV3.uk" tvg-logo="", ITV3
+#EXTINF:-1 tvg-chno="10" tvg-rec="28" tvg-id="ITV3.uk" tvg-logo="", ITV3
 https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="Davejavu.uk" status="blocked",Dave ja vu
+#EXTINF:-1 tvg-chno="74" tvg-rec="28" tvg-id="Davejavu.uk" status="blocked",Dave ja vu
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/playlist.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="E4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/e4-hd.png" group-title="General",E4
+#EXTINF:-1 tvg-chno="13" tvg-rec="28" tvg-id="E4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/e4-hd.png" group-title="General",E4
 https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Channel4Plus1.uk" tvg-logo="" group-title="General",Channel 4+1
+#EXTINF:-1 tvg-chno="15" tvg-rec="28" tvg-id="Channel4Plus1.uk" tvg-logo="" group-title="General",Channel 4+1
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png" group-title="General",More4
 https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
