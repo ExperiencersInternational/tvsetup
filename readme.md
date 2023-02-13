@@ -32,3 +32,23 @@ This service is fully based around the TVirl app for Android TV, it works with a
 You should steer away from the IPTV smarters pro app for mobile (in fact, plain old VLC is probably better), EPG doesn't work as far as I can see with no subscription, channels don't scan properly and some don't play properly.
 
 In order to get correct channel ordering, make sure tvg-chno is used for channel ordering.
+
+## Channels
+
+Not bothering to write down everything, but this allows easy access to most popular channels.
+
+|Channel number|Channel name|Quality|Region Area|TV/Radio|
+|-|-|-|-|-|
+|1|BBC One|720p|England|TV|
+|2|BBC Two|720p|England|TV|
+|3|ITV1|1080p|West Country (South)|TV|
+|4|Channel 4|1320x1080 (1080p)|N/A|TV|
+|5|Channel 5|1080p|N/A|TV|
+|6|ITV2|1080p|N/A|TV|
+|7|BBC Three|720p|England|TV|
+|9|BBC Four|720p|England|TV|
+|10|ITV3|880x720 (720p)|N/A|TV|
+|13|E4|576p|N/A|TV|
+|35|ITV1 +1|576p|Granada|TV|
+|910|STV|1080p|Scotland|TV|
+|911|STV+1|1080p|Scotland|TV|
