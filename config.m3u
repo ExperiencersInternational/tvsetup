@@ -76,8 +76,6 @@ https://cdnuk001.broadcastcdn.net/KUK-GEMSTV/tracks-v1a1/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
 #EXTINF:-1 tvg-chno="85" tvg-id="CreateandCraft.uk" group-title="Shopping",Create & Craft
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-#EXTINF:-1 tvg-chno="807" tvg-rec="3" tvg-id="RTUK.uk" group-title="News",RT UK
-https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="5USA.uk" group-title="General",5USA
 https://cdnuk001.broadcastcdn.net/KUK-5USA/tracks-v1a1/playlist.m3u8
 
@@ -96,8 +94,6 @@ https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/tracks-v1a1/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" status="blocked",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="802" tvg-id="BBCWorldNewsEurope.uk" group-title="News" status="blocked",BBC World News Europe (limited)
-http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-id="GBNews.uk" group-title="News",GBNews
 https://cdnuk001.broadcastcdn.net/KUK-GBNEWS/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="233" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News
