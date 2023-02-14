@@ -12,9 +12,9 @@ Important: CBS Reality seems to use an Irish stream from what I've seen, but all
 
 Enter experiencersinternational.github.io/tvsetup/config.m3u in your IPTV app to start receiving TV through the internet. You may also have to add the EPG URL listed above.
 
-### Other useless information 
+### Copyright 
 
-ITV regional news seems to follow local programming, except if you're in Scotland, which you should be using channel 910 instead of STV. TV programming guide may be inaccurate due to this.
+Despite it being my best intentions not to host any copyrighted content, due to only focusing on free to air content, there may be a few things that slip through the cracks, and in those cases, please submit a copyright removal request to me, and I will remove the affected content on the list. Please don't just go and file a request to GitHub and take down the entire thing.
 
 ## Contributors
 
