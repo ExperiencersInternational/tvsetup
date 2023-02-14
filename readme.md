@@ -16,6 +16,8 @@ Enter experiencersinternational.github.io/tvsetup/config.m3u in your IPTV app to
 
 Despite it being my best intentions not to host any copyrighted content, due to only focusing on free to air content, there may be a few things that slip through the cracks, and in those cases, please submit a copyright removal request to me, and I will remove the affected content on the list. Please don't just go and file a request to GitHub and take down the entire thing.
 
+Please also note that I don't host any of the content apart from the Information channel which is a looping video.
+
 ## Contributors
 
 Here is a few basic things to take note of when contributing:
