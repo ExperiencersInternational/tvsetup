@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_GB.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
 
-#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="3927" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
+#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="3764" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1-epg.png" group-title="General",ITV1
+#EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="ITV1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1-epg.png" group-title="General",ITV1
 https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
@@ -101,7 +101,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-chno="237" tvg-id="TalkTV.uk" group-title="News",TalkTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="700" tvg-id="12778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
+#EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 #EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio1Xtra.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1280px-BBC_Radio_1Xtra_2021.svg.png" group-title="Radio",BBC Radio 1Xtra
 https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
