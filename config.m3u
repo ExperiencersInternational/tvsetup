@@ -164,4 +164,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/m
 #EXTINF:-1 tvg-chno="913" tvg-id="BBCScotland.uk" status="blocked",BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
+#EXTINF:-1 tvg-chno="810" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream)
+https://list.iptvcat.com/my_list/s/c9cd3ea95f88f6aeb6b638859f252194.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
