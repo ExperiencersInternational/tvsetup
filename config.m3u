@@ -172,5 +172,7 @@ https://list.iptvcat.com/my_list/s/4cf4c3eeb31f346ed4924fe2a4eda095.m3u8
 https://list.iptvcat.com/my_list/s/1b6dded3944ab5f4fa11e1401fe6b9be.m3u8
 #EXTINF:-1 tvg-chno="812" tvg-id="Film4.uk" status="blocked",Film4 (alternative stream)
 https://list.iptvcat.com/my_list/s/6df24f2b583b70501d240dc153c3c01e.m3u8
+#EXTINF:-1 tvg-chno="813" tvg-id="GBNews.uk" status="blocked",GBNews (alternative stream)
+https://list.iptvcat.com/my_list/s/f4111eb523f441da59566bd3a5592750.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
