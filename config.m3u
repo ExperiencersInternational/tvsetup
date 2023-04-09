@@ -168,6 +168,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotla
 https://list.iptvcat.com/my_list/s/c9cd3ea95f88f6aeb6b638859f252194.m3u8
 #EXTINF:-1 tvg-chno="810-1" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream 2)
 https://list.iptvcat.com/my_list/s/4cf4c3eeb31f346ed4924fe2a4eda095.m3u8
-
+#EXTINF:-1 tvg-chno="811-1" tvg-id="Dave.uk" status="blocked",Dave (alternative stream)
+https://list.iptvcat.com/my_list/s/1b6dded3944ab5f4fa11e1401fe6b9be.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
