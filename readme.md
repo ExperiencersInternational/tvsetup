@@ -2,7 +2,7 @@
 
 ## About
 
-**Warning: EPG is not working properly and it's unreliable.**
+**Warning: EPG is not working properly and it's unreliable. ITV, Channel 4, Channel 5, Challenge as well as various other channels are unreliable. Might put some alternatives in the 800s range just so I don't completely kill people's service when they do go down.**
 
 UK IPTV programming guide. All channels currently should work, but depending on your viewer, the last channel may not work, and some others may not work due to geo-restrictions. Radio channels may also cause your app to not function correctly, in that case, I'd recommend forking and removing all radio channels.
 
