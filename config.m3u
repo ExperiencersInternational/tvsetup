@@ -191,6 +191,8 @@ https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/tracks-v1a1/playlist.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="806" tvg-id="KissTVUK.uk" group-title="Music",Kiss TV
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
+#EXTINF:-1 tvg-chno="807" tvg-rec="3" tvg-id="RTUK.uk" group-title="News",RT UK
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" status="blocked",S4C (Welsh)
