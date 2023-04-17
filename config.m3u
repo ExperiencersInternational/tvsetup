@@ -38,7 +38,7 @@ https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-DRAMA/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="5USA.uk" tvg-name="5 USA" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/5usa-epg.png" group-title="General",5 USA
 https://cdnuk001.broadcastcdn.net/KUK-5USA/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="hhttps://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV4
+#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV4
 https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/yesterday-epg.png" group-title="General",Yesterday
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/playlist.m3u8
@@ -255,13 +255,13 @@ https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/tracks-v1a1/playlist.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="806" tvg-id="KissTVUK.uk" group-title="Music",Kiss TV
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
-#EXTINF:-1 tvg-chno="807" tvg-rec="3" tvg-id="RTUK.uk" group-title="News",RT UK
+#EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" group-title="News",RT UK
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" status="blocked",S4C (Welsh)
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 tvg-chno="910" tvg-id="STV.uk" status="timeout",STV
+#EXTINF:-1 tvg-chno="910" tvg-id="STV.uk" status="timeout" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/stv-epg.png",STV
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
 #EXTINF:-1 tvg-chno="911" tvg-id="STVPlus1.uk" status="timeout",STV+1
 https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8
