@@ -16,8 +16,6 @@ Despite it being my best intentions not to host any copyrighted content, due to 
 
 Please also note that I don't host any of the content apart from the Information channel which is a looping video.
 
-
-
 ## Compatibility
 
 This service is fully based around the TVirl app for Android TV, it works with all of the features in here perfectly.
