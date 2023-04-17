@@ -20,6 +20,8 @@ Most channels are ordered in the Freeview style, so you'll feel right at home.
 
 For update information, follow me over on Mastodon @experiencersinternational@mstdn.social.
 
+If you want to contribute, read the [contributing guide](docs/contributing_guide.md) first.
+
 ### Copyright 
 
 Despite it being my best intentions not to host any copyrighted content, due to only focusing on free to air content, there may be a few things that slip through the cracks, and in those cases, please submit a copyright removal request to me, and I will remove the affected content on the list. Please don't just go and file a request to GitHub and take down the entire thing.
