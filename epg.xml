@@ -1,4 +1,4 @@
-<tv date="20230213">
+<tv date="20230417">
 <channel id="Information.uk">
 <display-name>IPTV Information</display-name>
 </channel>
@@ -36,67 +36,67 @@
 <display-name>Russian Today UK</display-name>
 </channel>
 
-<programme start="20230116000001 +0000" stop="20230328235959 +0000" channel="Information.uk">
+<programme start="20230116000001 +0000" stop="20230628235959 +0000" channel="Information.uk">
 <title lang="en">Learn more about this free IPTV service</title>
 <desc lang="en">Learn information on why channels may not be working and how you can contribute to add channels.</desc>
 <category lang="en">Information</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio1.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio1.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio1Xtra.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio1Xtra.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio2.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio2.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio3.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio3.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio4.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio4.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio4Extra.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio4Extra.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio5Live.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio5Live.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Radio</category>
 </programme>
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCRadio6.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCRadio6.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website.</desc>
 <category lang="en">Radio</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="Heart.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="Heart.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the Global Player or Heart websites. More regional programming can be found, but I decided to steer away from it and use the London feed.</desc>
 <category lang="en">Radio</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="BBCLocalRadio.uk">
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCLocalRadio.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the BBC website. Some shows may be unavailable to watch through this, due to this being streamed over the internet. In that case, resort to streaming via the BBC Sounds website/app or the relevant FM/AM/DAB/Freeview channels.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230328235959 +0000" channel="RTUK.uk">
-<title lang="en">This channel is unavailable</title>
-<desc lang="en">Update your channel listings to remove this channel.</desc>
+<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="RTUK.uk">
+<title lang="en">This channel has no EPG support</title>
+<desc lang="en">Please note that this channel hosts Russian state-affiliated media content and may contain misinformation.</desc>
 <category lang="en">News</category>
 </programme>
