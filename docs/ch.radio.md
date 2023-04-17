@@ -68,3 +68,7 @@ This list only displays channels which only display audio. For other channels wh
 |734-3|BBC Radio Sheffield|320k|
 |735-1|BBC Radio Gloucestershire|320k|
 |735-2|BBC Radio Derby|320k|
+|740|BBC Radio Orkney|320k|
+|741|BBC Radio Shetland|320k|
+|742|BBC Radio 1 Dance|320k|
+|743|BBC Radio 1 Relax|320k|
