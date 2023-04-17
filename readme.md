@@ -94,6 +94,7 @@ This list only displays channels which only display audio. For other channels wh
 |728|Heart (London)|128k|
 |731|Classic FM|128k|
 |732|LBC|48k|
+|733|TransWorldRadio|192k|
 |735-1|BBC Radio Gloucestershire|320k|
 |735-2|BBC Radio Derby|320k|
 
