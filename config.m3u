@@ -8,15 +8,15 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="General",Channel 5
+#EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png" group-title="General",Channel 5
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-rec="28" tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ITV2_logo_%282022%29.svg/1280px-ITV2_logo_%282022%29.svg.png", ITV2
+#EXTINF:-1 tvg-chno="6" tvg-rec="28" tvg-id="ITV2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv2-epg.png", ITV2
 https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-rec="28" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-rec="28" tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png", ITV3
+#EXTINF:-1 tvg-chno="10" tvg-rec="28" tvg-id="ITV3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv3-epg.png", ITV3
 https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="QuestUK.uk" tvg-name="Quest" tvg-logo="https://i.imgur.com/9IFXXNc.png" group-title="General",Quest
 https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/playlist.m3u8
@@ -38,11 +38,11 @@ https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-DRAMA/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="5USA.uk" tvg-name="5 USA" tvg-logo="https://i.imgur.com/Pi7so2l.png" group-title="General",5 USA
 https://cdnuk001.broadcastcdn.net/KUK-5USA/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="Entertainment",ITV4
+#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" tvg-name="ITV4" tvg-logo="hhttps://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV4
 https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="https://i.imgur.com/EMBQqe7.png" group-title="Entertainment",Yesterday
+#EXTINF:-1 tvg-chno="27" tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="https://i.imgur.com/EMBQqe7.png" group-title="General",Yesterday
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/playlist.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="ITVBe.uk" status="blocked",ITVBe
+#EXTINF:-1 tvg-chno="28" tvg-id="ITVBe.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itvbe-epg.png" status="blocked",ITVBe
 https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="5Star.uk" tvg-name="5 Star" tvg-logo="https://i.imgur.com/PI11s9s.png" group-title="Entertainment",5 Star
 https://cdnuk001.broadcastcdn.net/KUK-5STAR/playlist.m3u8
