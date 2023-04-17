@@ -1,14 +1,24 @@
-# TV Setup
+# TVsetup
 
 ## About
 
-UK IPTV programming guide. All channels currently should work, but depending on your viewer, the last channel may not work, and some others may not work due to geo-restrictions. Radio channels may also cause your app to not function correctly, in that case, I'd recommend forking and removing all radio channels.
+A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 130 channels from TV to Radio.
 
-100 channels and counting, from TV to Radio.
+Get started by adding the playlist link in your application:
 
-This guide is based off the Freeview guide, but may include radio stations and extra channels not found on Freeview as well. EPG currently doesn't show info for radio channels, if you can't see any EPG info whatsoever, try using a different app.
+```
+https://experiencersinternational.github.io/tvsetup/config.m3u
+```
 
-Enter experiencersinternational.github.io/tvsetup/config.m3u in your IPTV app to start receiving TV through the internet. You may also have to add the EPG URL listed above.
+And, add this link to receive a 48 hour EPG for some channels:
+
+```
+https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
+```
+
+Most channels are ordered in the Freeview style, so you'll feel right at home.
+
+For update information, follow me over on Mastodon @experiencersinternational@mstdn.social.
 
 ### Copyright 
 
