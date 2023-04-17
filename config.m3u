@@ -245,7 +245,7 @@ http://media-ice.musicradio.com/ClassicFMMP3
 #EXTINF:-1 tvg-chno="732" tvg-id="LBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/LBC_Radio.png" group-title="Radio",LBC
 http://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1 tvg-chno="732" tvg-id="TransWorldRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Trans_World_Radio_logo.png" group-title="Radio",Trans World Radio
-http://iceant.antfarm.co.za:8000/TWR
+https://direct.sharp-stream.com/twruk.mp3
 
 #EXTINF:-1 tvg-chno="801" tvg-id="4Music.uk" status="timeout",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
