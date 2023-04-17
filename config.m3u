@@ -169,7 +169,12 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leeds.m3u8
 #EXTINF:-1 tvg-chno="726" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC_Radio_Stoke_2022.svg/1280px-BBC_Radio_Stoke_2022.svg.png" group-title="Radio",BBC Radio Stoke
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_stoke.m3u8
-
+#EXTINF:-1 tvg-chno="719-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/BBC_Radio_Jersey_2022.svg/1280px-BBC_Radio_Jersey_2022.svg.png" group-title="Radio",BBC Radio Jersey
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_jersey.m3u8
+#EXTINF:-1 tvg-chno="719-3" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BBC_Radio_Bristol_2022.svg/1280px-BBC_Radio_Bristol_2022.svg.png" group-title="Radio",BBC Radio Bristol
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_bristol.m3u8
+#EXTINF:-1 tvg-chno="719-4" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/BBC_Radio_Berkshire_2022.svg/1280px-BBC_Radio_Berkshire_2022.svg.png" group-title="Radio",BBC Radio Berkshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_berkshire.m3u8
 
 #EXTINF:-1 tvg-chno="718" tvg-id="SmoothRadio.uk" tvg-logo="https://www.smoothradio.com/assets_v4r/dist/combined/img/smooth-logo_desktop.png" group-title="Radio",Smooth Radio
 http://media-ice.musicradio.com/SmoothUKMP3
