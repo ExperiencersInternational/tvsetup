@@ -57,7 +57,7 @@ Not bothering to write down everything, but this allows easy access to most popu
 |910|STV|1080p|Scotland|
 |911|STV+1|1080p|Scotland|
 
-* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media.
+`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media.`
 
 ### Radio
 
