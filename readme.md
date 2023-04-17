@@ -65,37 +65,37 @@ This list only displays channels which only display audio. For other channels wh
 
 |Channel number|Channel name|Quality|
 |-|-|-|
-|700|BBC Radio 1|Unknown|
-|701|BBC Radio 1Xtra|Unknown|
-|702|BBC Radio 2|Unknown|
-|703|BBC Radio 3|Unknown|
-|704|BBC Radio 4|Unknown|
-|705|BBC Radio 5 Live|Unknown|
-|706|BBC Radio 5 Sports Extra|Unknown|
-|707|BBC Radio 6 Music|Unknown|
-|708|BBC Radio 4 Extra|Unknown|
-|709|BBC Radio Asian Network|Unknown|
-|710|BBC World Service|Unknown|
-|718|Smooth Radio|Unknown|
-|719-1|BBC Radio Leeds|Unknown|
-|720-1|BBC Radio H&W|Unknown|
-|720-2|BBC Radio Cymru|Unknown|
-|720-3|BBC Radio Devon|Unknown|
-|720-4|BBC Radio Foyle|Unknown|
-|720-5|BBC Radio Lancashire|Unknown|
-|720-6|BBC Radio nan Gàidheal|Unknown|
-|720-7|BBC Radio Nottingham|Unknown|
-|720-8|BBC Radio Suffolk|Unknown|
-|720-9|BBC Radio Sussex|Unknown|
-|720-10|BBC Radio York|Unknown|
-|720-11|BBC Radio Three Counties|Unknown|
-|724|Capital|Unknown|
-|726|BBC Radio Stoke|Unknown|
-|728|Heart (London)|Unknown|
-|731|Classic FM|Unknown|
-|732|LBC|Unknown|
-|735-1|BBC Radio Gloucestershire|Unknown|
-|735-2|BBC Radio Derby|Unknown|
+|700|BBC Radio 1|320k|
+|701|BBC Radio 1Xtra|320k|
+|702|BBC Radio 2|320k|
+|703|BBC Radio 3|320k|
+|704|BBC Radio 4|320k|
+|705|BBC Radio 5 Live|320k|
+|706|BBC Radio 5 Sports Extra|320k|
+|707|BBC Radio 6 Music|320k|
+|708|BBC Radio 4 Extra|320k|
+|709|BBC Radio Asian Network|320k|
+|710|BBC World Service|96k|
+|718|Smooth Radio|128k|
+|719-1|BBC Radio Leeds|320k|
+|720-1|BBC Radio H&W|320k|
+|720-2|BBC Radio Cymru|320k|
+|720-3|BBC Radio Devon|320k|
+|720-4|BBC Radio Foyle|320k|
+|720-5|BBC Radio Lancashire|320k|
+|720-6|BBC Radio nan Gàidheal|320k|
+|720-7|BBC Radio Nottingham|320k|
+|720-8|BBC Radio Suffolk|320k|
+|720-9|BBC Radio Sussex|320k|
+|720-10|BBC Radio York|320k|
+|720-11|BBC Radio Three Counties|320k|
+|724|Capital|128k|
+|726|BBC Radio Stoke|320k|
+|728|Heart (London)|128k|
+|731|Classic FM|128k|
+|732|LBC|48k|
+|735-1|BBC Radio Gloucestershire|320k|
+|735-2|BBC Radio Derby|320k|
 
 ## Parental guidance
 
