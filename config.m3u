@@ -175,6 +175,64 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_bristol.m3u8
 #EXTINF:-1 tvg-chno="719-4" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/BBC_Radio_Berkshire_2022.svg/1280px-BBC_Radio_Berkshire_2022.svg.png" group-title="Radio",BBC Radio Berkshire
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_berkshire.m3u8
+#EXTINF:-1 tvg-chno="719-5" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BBC_CWR_2022.svg/1280px-BBC_CWR_2022.svg.png" group-title="Radio",BBC Radio CWR
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_coventry_warwickshire.m3u8
+#EXTINF:-1 tvg-chno="719-6" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Radio_Kent_2022.svg/1280px-BBC_Radio_Kent_2022.svg.png" group-title="Radio",BBC Radio Kent
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_kent.m3u8
+#EXTINF:-1 tvg-chno="719-7" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BBC_Radio_Manchester_2022.svg/1280px-BBC_Radio_Manchester_2022.svg.png" group-title="Radio",BBC Radio Manchester
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_manchester.m3u8
+#EXTINF:-1 tvg-chno="719-8" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_Radio_Newcastle_2022.svg/1280px-BBC_Radio_Newcastle_2022.svg.png" group-title="Radio",BBC Radio Newcastle
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_newcastle.m3u8
+#EXTINF:-1 tvg-chno="719-9" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BBC_Radio_Norfolk_2022.svg/1280px-BBC_Radio_Norfolk_2022.svg.png" group-title="Radio",BBC Radio Norfolk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_norfolk.m3u8
+#EXTINF:-1 tvg-chno="719-10" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_Radio_Scotland_2022.svg/1280px-BBC_Radio_Scotland_2022.svg.png" group-title="Radio",BBC Radio Scotland
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_scotland.m3u8
+#EXTINF:-1 tvg-chno="719-11" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/BBC_Radio_Ulster_2022.svg/1280px-BBC_Radio_Ulster_2022.svg.png" group-title="Radio",BBC Radio Ulster
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_ulster.m3u8
+#EXTINF:-1 tvg-chno="719-12" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Radio_Wales_2022.svg/1280px-BBC_Radio_Wales_2022.svg.png" group-title="Radio",BBC Radio Wales
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_fm.m3u8
+#EXTINF:-1 tvg-chno="721-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BBC_Radio_Cornwall_2022.svg/1280px-BBC_Radio_Cornwall_2022.svg.png" group-title="Radio",BBC Radio Cornwall
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cornwall.m3u8
+#EXTINF:-1 tvg-chno="721-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BBC_Radio_Cumbria_2022.svg/1280px-BBC_Radio_Cumbria_2022.svg.png" group-title="Radio",BBC Radio Cumbria
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cumbria.m3u8
+#EXTINF:-1 tvg-chno="721-3" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_Radio_Cymru_2_2022.svg/1280px-BBC_Radio_Cymru_2_2022.svg.png" group-title="Radio",BBC Radio Cymru 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cymru_2.m3u8
+#EXTINF:-1 tvg-chno="721-4" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BBC_Radio_Guernsey_2022.svg/1280px-BBC_Radio_Guernsey_2022.svg.png" group-title="Radio",BBC Radio Guernsey
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_guernsey.m3u8
+#EXTINF:-1 tvg-chno="721-5" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_Humberside_2022.svg/1280px-BBC_Radio_Humberside_2022.svg.png" group-title="Radio",BBC Radio Humberside
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_humberside.m3u8
+#EXTINF:-1 tvg-chno="721-6" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Radio_Leicester_2022.svg/1280px-BBC_Radio_Leicester_2022.svg.png" group-title="Radio",BBC Radio Leicester
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leicester.m3u8
+#EXTINF:-1 tvg-chno="721-7" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_Radio_London_%282022%29.svg/1280px-BBC_Radio_London_%282022%29.svg.png" group-title="Radio",BBC Radio London
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_london.m3u8
+#EXTINF:-1 tvg-chno="721-8" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BBC_Radio_Shropshire_2022.svg/1280px-BBC_Radio_Shropshire_2022.svg.png" group-title="Radio",BBC Radio Shropshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_shropshire.m3u8
+#EXTINF:-1 tvg-chno="721-9" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BBC_Radio_Wiltshire_2022.svg/1280px-BBC_Radio_Wiltshire_2022.svg.png" group-title="Radio",BBC Radio Wiltshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wiltshire.m3u8
+#EXTINF:-1 tvg-chno="722-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/BBC_Radio_Cambridgeshire_2022.svg/1280px-BBC_Radio_Cambridgeshire_2022.svg.png" group-title="Radio",BBC Radio Cambridgeshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cambridgeshire.m3u8
+#EXTINF:-1 tvg-chno="722-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BBC_Radio_Lincolnshire_2022.svg/1280px-BBC_Radio_Lincolnshire_2022.svg.png" group-title="Radio",BBC Radio Lincolnshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_lincolnshire.m3u8
+#EXTINF:-1 tvg-chno="722-3" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BBC_Radio_Merseyside_2022.svg/1280px-BBC_Radio_Merseyside_2022.svg.png" group-title="Radio",BBC Radio Merseyside
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_merseyside.m3u8
+#EXTINF:-1 tvg-chno="722-4" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BBC_Radio_Oxford_2022.svg/1280px-BBC_Radio_Oxford_2022.svg.png" group-title="Radio",BBC Radio Oxford
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_oxford.m3u8
+#EXTINF:-1 tvg-chno="722-5" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/BBC_Radio_Solent_2022.svg/1280px-BBC_Radio_Solent_2022.svg.png" group-title="Radio",BBC Radio Solent
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_solent.m3u8
+#EXTINF:-1 tvg-chno="722-6" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BBC_Radio_Somerset_2022.svg/1280px-BBC_Radio_Somerset_2022.svg.png" group-title="Radio",BBC Radio Somerset
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_somerset.m3u8
+#EXTINF:-1 tvg-chno="722-7" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BBC_Radio_Surrey_2022.svg/1280px-BBC_Radio_Surrey_2022.svg.png" group-title="Radio",BBC Radio Surrey
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_surrey.m3u8
+#EXTINF:-1 tvg-chno="722-8" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BBC_Radio_Tees_2022.svg/1280px-BBC_Radio_Tees_2022.svg.png" group-title="Radio",BBC Radio Tees
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_tees.m3u8
+#EXTINF:-1 tvg-chno="722-9" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BBC_Radio_WM_logo_2022.svg/1280px-BBC_Radio_WM_logo_2022.svg.png" group-title="Radio",BBC Radio WM
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_wm.m3u8
+#EXTINF:-1 tvg-chno="734-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BBC_Essex_2022.svg/1280px-BBC_Essex_2022.svg.png" group-title="Radio",BBC Essex
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_essex.m3u8
+#EXTINF:-1 tvg-chno="734-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/BBC_Radio_Northampton_2022.svg/1280px-BBC_Radio_Northampton_2022.svg.png" group-title="Radio",BBC Radio Northampton
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_northampton.m3u8
+#EXTINF:-1 tvg-chno="734-3" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BBC_Radio_Sheffield_2022.svg/1280px-BBC_Radio_Sheffield_2022.svg.png" group-title="Radio",BBC Radio Sheffield
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_sheffield.m3u8
 
 #EXTINF:-1 tvg-chno="718" tvg-id="SmoothRadio.uk" tvg-logo="https://www.smoothradio.com/assets_v4r/dist/combined/img/smooth-logo_desktop.png" group-title="Radio",Smooth Radio
 http://media-ice.musicradio.com/SmoothUKMP3
