@@ -37,7 +37,7 @@ In order to get correct channel ordering, make sure tvg-chno is used for channel
 
 ## Channels
 
-Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps.
+Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps apart from Ideal World.
 
 ### TV
 
