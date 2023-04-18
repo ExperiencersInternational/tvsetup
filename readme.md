@@ -46,7 +46,7 @@ Not bothering to write down everything, but this allows easy access to most popu
 |1|BBC One|720p|England|
 |2|BBC Two|720p|England|
 |3|ITV1|1080p|West Country (South)|
-|4|Channel 4|1320x1080 (1080p)|N/A|
+|4|Channel 4|1320x1080 (1080p)|Scotland|
 |5|Channel 5**|1080p|N/A|
 |6|ITV2|1080p|N/A|
 |7|BBC Three|720p|England|
