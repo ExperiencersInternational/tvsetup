@@ -53,8 +53,19 @@ Not bothering to write down everything, but this allows easy access to most popu
 |9|BBC Four|720p|England|
 |10|ITV3|880x720 (720p)|N/A|
 |13|E4|576p|N/A|
+|16|QVC|540p|UK|
 |35|ITV1 +1|576p|Granada|
+|37|QVC Beauty|540p|UK|
+|38|QVC Style|540p|UK|
+|84|PBS America|720p|N/A|
+|85|Create & Craft|720p|N/A|
+|201|CBBC|720p|N/A|
+|202|CBeebies|720p|N/A|
+|232|BBC Parliament|540p|N/A|
+|235|Al Jazeera|1080p|N/A|
+|237|TalkTV|1080p|N/A|
 |801|4Music|576p|N/A|
+|805|Now 80s|720p|N/A|
 |807|RT UK*|1080p|UK|
 |910|STV|1080p|Scotland|
 |911|STV+1|1080p|Scotland|
