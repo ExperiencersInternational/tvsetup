@@ -37,7 +37,7 @@ In order to get correct channel ordering, make sure tvg-chno is used for channel
 
 ## Channels
 
-Not bothering to write down everything, but this allows easy access to most popular channels.
+Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps.
 
 ### TV
 
@@ -47,13 +47,26 @@ Not bothering to write down everything, but this allows easy access to most popu
 |2|BBC Two|720p|England|
 |3|ITV1|1080p|West Country (South)|
 |4|Channel 4|1320x1080 (1080p)|N/A|
-|5|Channel 5|1080p|N/A|
+|5|Channel 5**|1080p|N/A|
 |6|ITV2|1080p|N/A|
 |7|BBC Three|720p|England|
 |9|BBC Four|720p|England|
 |10|ITV3|880x720 (720p)|N/A|
+|12|QUEST|1080p|N/A|
 |13|E4|576p|N/A|
+|14|Film4|576p|N/A|
+|15|Channel 4+1|576p|N/A|
 |16|QVC|540p|UK|
+|17|Really|576p|N/A|
+|18|More4|576p|N/A|
+|19|Dave|576p|N/A|
+|20|Drama|576p|N/A|
+|21|5USA|576p|N/A|
+|26|ITV4|576p|N/A|
+|27|Yesterday|576p|N/A|
+|28|ITVBe|576p|N/A|
+|32|5STAR**|576p|N/A|
+|33|5ACTION**|576p|N/A|
 |35|ITV1 +1|576p|Granada|
 |37|QVC Beauty|540p|UK|
 |38|QVC Style|540p|UK|
@@ -70,7 +83,7 @@ Not bothering to write down everything, but this allows easy access to most popu
 |910|STV|1080p|Scotland|
 |911|STV+1|1080p|Scotland|
 
-`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media.`
+`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available.`
 
 ### Radio
 
