@@ -1,0 +1,41 @@
+name: ⚠️ Remove copyrighted content
+description: This form is for copyright owners to remove copyrighted content from this repository.
+title: '[⚠️ Takedown Request]: '
+labels: ['bug']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please take your time to read the entirety of this, and fill out all required boxes. Please be ready to prove that you have the rights to the affected content as well.
+
+  - type: input
+    attributes:
+      label: Affected channel numbers
+      description: Please specify the numbers of the affected channels to proceed.
+      placeholder: '5, 21, 56'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Contact details
+      placeholder: 'Please provide a way to contact you to proceed. For example, john@example.com.'
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        Legal disclaimer: I do not host any of the content stored on here. This is simply just a collection of free-to-air streams from other websites, which I do not control. By submitting a takedown request here, you should also note that other lists may still include links to the copyrighted streams.
+
+  - type: checkboxes
+    attributes:
+      label: Please confirm the following
+      options:
+        - label: I've read the legal disclaimer above
+          required: true
+        - label: I am the copyright owner or I have gained permission from the copyright owner to take this down
+          required: true
+        - label: I understand that if I fail to provide information within the request, it may be closed
+          required: true
