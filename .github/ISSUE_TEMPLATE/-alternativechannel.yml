@@ -1,0 +1,44 @@
+name: ✨ Suggest an alternative stream to an existing channel [Beta]
+description: Suggest an alternative stream for an existing channel to be added to the list.
+title: '[✨ Alternative Stream]: '
+labels: ['feature-request']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out this template as much as you can so we can add the channel to the list
+
+  - type: input
+    attributes:
+      label: Channel name
+      description: Please specify the name of the channel, so I can identify which channel that the alternative stream is for. If it's an alternative stream for a different region, specify in brackets (e.g. ITV1 (Central West).
+      placeholder: 'auroraTV1'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Stream link
+      description: Please specify the link to the stream
+      placeholder: 'https://example.com/auroraTV1/HD.m3u'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Stream quality
+      description: Please specify the quality of the stream 
+      placeholder: '1080p25'
+
+  - type: textarea
+    attributes:
+      label: Notes (optional)
+      placeholder: 'Anything else we should know?'
+
+  - type: checkboxes
+    attributes:
+      label: Please confirm the following
+      options:
+        - label: This is not a proxy service for the existing stream links
+          required: true
