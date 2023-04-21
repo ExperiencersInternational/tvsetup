@@ -37,6 +37,13 @@ body:
       label: Additional information
       placeholder: 'Is there anything else that you need to note down?'
 
+- type: input
+    attributes:
+      label: Are there any relevant broken stream reports on IPTV-org/iptv?
+      description: Link the relevant broken stream reports (if there are any) here.
+      placeholder: 'https://github.com/iptv-org/iptv/issues/12345'
+    validations:
+
   - type: checkboxes
     attributes:
       label: To prevent spam reports, we need to know whether you are viewing within the UK. The majority of channels are restricted to viewers outside of the UK, and they may be restricted to viewers using a Virtual Private Network. We also ask you to check that a stream works within VLC, since it may be an issue with your application.
