@@ -37,7 +37,7 @@ body:
       label: Additional information
       placeholder: 'Is there anything else that you need to note down?'
 
-- type: input
+  - type: input
     attributes:
       label: Are there any relevant broken stream reports on IPTV-org/iptv?
       description: Link the relevant broken stream reports (if there are any) here.
