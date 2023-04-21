@@ -1,0 +1,45 @@
+name: 📺 Channel(s) does not work
+description: Report issues with a channel, or multiple channels
+title: '[📺 Broken Stream]: '
+labels: ['bug']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the issue template below to help us resolve the issue.
+
+  - type: input
+    attributes:
+      label: Broken channel numbers
+      description: Input the numbers of the affected channels one by one in the text box.
+      placeholder: '3, 231, 735-1'
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: What happened to the stream?
+      options:
+        - Not loading
+        - Constantly interrupts/lagging
+        - Stuck at a single frame
+        - I see visual artifacts
+        - Shows looped video
+        - Shows the wrong channel
+        - Displays a message asking to renew subscription
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional information
+      placeholder: 'Is there anything else that you need to note down?'
+
+  - type: checkboxes
+    attributes:
+      label: To prevent spam reports, we need to know whether you are viewing within the UK. The majority of channels are restricted to viewers outside of the UK, and they may be restricted to viewers using a Virtual Private Network.
+      options:
+        - label: I'm watching within the UK, and I'm not using a VPN
+          required: true
