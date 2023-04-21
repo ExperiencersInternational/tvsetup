@@ -14,7 +14,7 @@ body:
       label: Select channel type
       options:
         - TV channel
-        - Timeshift TV channel
+        - Timeshift TV channel (+1)
         - Radio channel
         - Other
 
@@ -27,6 +27,8 @@ body:
         - Music/Radio
         - News
         - Childrens
+        - Film
+        - Shopping
         - Other
 
   - type: input
@@ -41,7 +43,7 @@ body:
     attributes:
       label: Channel icon
       description: Please specify a link to the channel icon (ideally as a white PNG)
-      placeholder: 'https://example.com/auroraTV1/HD.m3u'
+      placeholder: 'https://example.com/auroraTV1/icon.png'
     validations:
       required: true
 
@@ -52,6 +54,12 @@ body:
       placeholder: 'https://example.com/auroraTV1/HD.m3u'
     validations:
       required: true
+
+  - type: input
+    attributes:
+      label: Stream quality
+      description: Please specify the quality of the stream 
+      placeholder: '1080p25'
 
   - type: textarea
     attributes:
