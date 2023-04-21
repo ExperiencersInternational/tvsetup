@@ -80,8 +80,8 @@ Not bothering to write down everything, but this allows easy access to most popu
 |801|4Music|576p|N/A|
 |805|Now 80s|720p|N/A|
 |807|RT UK*|1080p|UK|
-|910|STV|1080p|Scotland|
-|911|STV+1|1080p|Scotland|
+|910|STV|1080p|West Scotland|
+|911|STV+1|1080p|West Scotland|
 
 `* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available.`
 
