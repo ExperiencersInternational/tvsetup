@@ -1,0 +1,70 @@
+name: ✨ Suggest a new channel [Beta]
+description: Suggest a new channel to be added to the list.
+title: '[✨ Add Channel]: '
+labels: ['feature-request']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out this template as much as you can so we can add the channel to the list
+
+  - type: dropdown
+    attributes:
+      label: Select channel type
+      options:
+        - TV channel
+        - Timeshift TV channel
+        - Radio channel
+        - Other
+
+  - type: dropdown
+    attributes:
+      label: Select primary content that the channel shows
+      options:
+        - General/Entertainment
+        - Reality
+        - Music/Radio
+        - News
+        - Childrens
+        - Other
+
+  - type: input
+    attributes:
+      label: Channel name
+      description: Please specify the name of the channel
+      placeholder: 'auroraTV1'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Channel icon
+      description: Please specify a link to the channel icon (ideally as a white PNG)
+      placeholder: 'https://example.com/auroraTV1/HD.m3u'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Stream link
+      description: Please specify the link to the stream
+      placeholder: 'https://example.com/auroraTV1/HD.m3u'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Notes (optional)
+      placeholder: 'Anything else we should know?'
+
+  - type: checkboxes
+    attributes:
+      label: Please confirm the following
+      options:
+        - label: This channel is free-to-air
+          required: true
+        - label: This channel is intended for UK audiences
+          required: true
+        - label: This is not an alternative stream for an existing channel (form for that coming soon)
+          required: true
