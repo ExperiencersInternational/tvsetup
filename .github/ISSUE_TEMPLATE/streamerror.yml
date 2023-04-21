@@ -1,13 +1,13 @@
 name: 📺 Channel(s) does not work
 description: Report issues with a channel, or multiple channels
 title: '[📺 Broken Stream]: '
-labels: ['bug']
+labels: ['broken']
 
 body:
   - type: markdown
     attributes:
       value: |
-        Please fill out the issue template below to help us resolve the issue.
+        Please fill out the issue template below to help us resolve the issue. If you are filing an issue over channel 500 showing looped video, this is intentional.
 
   - type: input
     attributes:
@@ -22,12 +22,12 @@ body:
       label: What happened to the stream?
       options:
         - Not loading
-        - Constantly interrupts/lagging
+        - Constantly buffering
         - Stuck at a single frame
         - I see visual artifacts
-        - Shows looped video
-        - Shows the wrong channel
-        - Displays a message asking to renew subscription
+        - The video is looped
+        - Shows a different channel
+        - Displays a pop-up message
         - Other
     validations:
       required: true
@@ -39,7 +39,9 @@ body:
 
   - type: checkboxes
     attributes:
-      label: To prevent spam reports, we need to know whether you are viewing within the UK. The majority of channels are restricted to viewers outside of the UK, and they may be restricted to viewers using a Virtual Private Network.
+      label: To prevent spam reports, we need to know whether you are viewing within the UK. The majority of channels are restricted to viewers outside of the UK, and they may be restricted to viewers using a Virtual Private Network. We also ask you to check that a stream works within [VLC](https://videolan.org), since it may be an issue with your application.
       options:
         - label: I'm watching within the UK, and I'm not using a VPN
+          required: true
+        - label: I've checked that the stream does not load in VLC
           required: true
