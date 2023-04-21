@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Ask a question about this project
+    url: https://github.com/ExperiencersInternational/tvsetup/discussions/new
+    about: Ask questions about this project
+  - name: ⚠️ Remove content from this repository
+    url: mailto:gamersinternationalhelp+copyrightrequests@gmail.com
+    about: If you are a copyright owner, go to this section to remove content from the repository. Please note that I do not host any of the links, and that they may show up on other GitHub repositories.
