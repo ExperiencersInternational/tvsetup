@@ -17,6 +17,14 @@ body:
     validations:
       required: true
 
+  - type: input
+    attributes:
+      label: Full legal name
+      description: Please specify your full legal name so we can proceed.
+      placeholder: 'John Doe'
+    validations:
+      required: true
+
   - type: textarea
     attributes:
       label: Contact details
