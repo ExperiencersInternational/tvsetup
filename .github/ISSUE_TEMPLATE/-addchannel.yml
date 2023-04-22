@@ -15,8 +15,10 @@ body:
       options:
         - TV channel
         - Timeshift TV channel (+1)
-        - Radio channel
+        - Radio station (audio-only channel)
         - Other
+    validations:
+      required: true
 
   - type: dropdown
     attributes:
@@ -63,8 +65,8 @@ body:
 
   - type: textarea
     attributes:
-      label: Notes (optional)
-      placeholder: 'Anything else we should know?'
+      label: Notes
+      placeholder: 'Add some additional information'
 
   - type: checkboxes
     attributes:
