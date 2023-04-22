@@ -1,7 +1,7 @@
 name: ⚠️ Remove copyrighted content
 description: This form is for copyright owners to remove copyrighted content from this repository.
 title: '[⚠️ Takedown Request]: '
-labels: ['bug']
+labels: ['copyright-takedowns']
 
 body:
   - type: markdown
@@ -28,6 +28,7 @@ body:
   - type: textarea
     attributes:
       label: Contact details
+      description: We need a way to reach you to verify information about your takedown request. Emails are preferred.
       placeholder: 'Please provide a way to contact you to proceed. For example, john@example.com.'
     validations:
       required: true
