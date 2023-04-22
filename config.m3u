@@ -237,6 +237,8 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one_dance.m3u8
 #EXTINF:-1 tvg-chno="743" tvg-id="BBCRadio1Relax.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/BBC_Radio_1_Relax_2022.svg/1280px-BBC_Radio_1_Relax_2022.svg.png" group-title="Radio",BBC Radio 1 Relax
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one_relax.m3u8
+#EXTINF:-1 tvg-chno="744" tvg-id="CBeebiesRadio.uk" tvg-logo="" group-title="Radio",CBeebies Radio
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/cbeebies_radio.m3u8
 
 #EXTINF:-1 tvg-chno="718" tvg-id="SmoothRadio.uk" tvg-logo="https://www.smoothradio.com/assets_v4r/dist/combined/img/smooth-logo_desktop.png" group-title="Radio",Smooth Radio
 http://media-ice.musicradio.com/SmoothUKMP3
