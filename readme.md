@@ -159,6 +159,7 @@ This list only displays channels which only display audio. For other channels wh
 |741|BBC Radio Shetland|320k|
 |742|BBC Radio 1 Dance|320k|
 |743|BBC Radio 1 Relax|320k|
+|744|CBeebies Radio|320k|
 
 ## Parental guidance
 
