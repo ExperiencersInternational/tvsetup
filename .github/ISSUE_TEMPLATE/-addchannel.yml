@@ -1,4 +1,4 @@
-name: ✨ Suggest a new channel [Beta]
+name: ✨ Suggest a new channel
 description: Suggest a new channel to be added to the list.
 title: '[✨ Add Channel]: '
 labels: ['feature-request']
@@ -65,8 +65,9 @@ body:
 
   - type: textarea
     attributes:
-      label: Notes
-      placeholder: 'Add some additional information'
+      label: Additional information
+      description: Add some extra information to help us out, such as the channel number where it should be placed.
+      placeholder: 'Please type here'
 
   - type: checkboxes
     attributes:
@@ -76,5 +77,5 @@ body:
           required: true
         - label: This channel is intended for UK audiences
           required: true
-        - label: This is not an alternative stream for an existing channel (form for that coming soon)
+        - label: This is not an alternative stream for an existing channel
           required: true
