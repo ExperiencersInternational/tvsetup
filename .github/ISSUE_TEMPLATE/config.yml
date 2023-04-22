@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: 💬 Ask a question about this project
-    url: https://github.com/ExperiencersInternational/tvsetup/discussions/new
-    about: Ask questions about this project
+    url: https://github.com/ExperiencersInternational/tvsetup/discussions/new?category=q-a
+    about: Ask questions about this project, and get answers from the community.
   - name: ⚠️ Report an issue with the EPG
     url: https://github.com/dp247/Freeview-EPG/issues/new/choose
     about: Report issues with the electronic programming guide that we use
