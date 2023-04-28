@@ -10,7 +10,7 @@ Get started by adding the playlist link in your application:
 https://experiencersinternational.github.io/tvsetup/config.m3u
 ```
 
-And, add this link to receive a 48 hour EPG for some channels:
+If your application doesn't automatically add an EPG, add this 48-hour EPG run by @dp247:
 
 ```
 https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 
 Most channels are ordered in the Freeview style, so you'll feel right at home.
 
-For update information, follow me over on Mastodon @experiencersinternational@mstdn.social.
+For update information, follow me over on the fediverse `@experiencersinternational@mstdn.social`.
 
 If you want to contribute, read the [contributing guide](docs/contributing_guide.md) first.
 
@@ -29,6 +29,8 @@ Despite it being my best intentions not to host any copyrighted content, due to 
 Please also note that I don't host any of the content apart from the Information channel which is a looping video.
 
 ## Compatibility
+
+**I need to rewrite this all eventually, I'll probably be putting some guides out for compatibility eventually.**
 
 This service is fully based around the TVirl app for Android TV, it works with all of the features in here perfectly.
 You should steer away from the IPTV smarters pro app for mobile (in fact, plain old VLC is probably better), EPG doesn't work as far as I can see with no subscription, channels don't scan properly and some don't play properly.
