@@ -2,7 +2,7 @@
 
 ## About
 
-A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 130 channels from TV to Radio.
+A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 140 channels from TV to Radio.
 
 Get started by adding the playlist link in your application:
 
