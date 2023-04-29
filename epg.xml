@@ -2,6 +2,9 @@
 <channel id="Information.uk">
 <display-name>IPTV Information</display-name>
 </channel>
+<channel id="PlaylistInfo290423.uk">
+<display-name>Update Channel</display-name>
+</channel>
 <channel id="BBCLocalRadio.uk">
 <display-name>BBC Local Radio</display-name>
 </channel>
@@ -34,4 +37,10 @@
 <title lang="en">This channel has no EPG support</title>
 <desc lang="en">Please note that this channel hosts Russian state-affiliated media content and may contain misinformation.</desc>
 <category lang="en">News</category>
+</programme>
+
+<programme start="20230416000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo290423.uk">
+<title lang="en">Your channel list is up-to-date</title>
+<desc lang="en">It looks like you have the latest updates!</desc>
+<category lang="en">Data</category>
 </programme>
