@@ -2,7 +2,7 @@
 
 ## About
 
-A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 140 channels from TV to Radio.
+A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 140 channels (currently about 100 due to withdrawing some broken channels) from TV to Radio.
 
 Get started by adding the playlist link in your application:
 
@@ -40,6 +40,8 @@ In order to get correct channel ordering, make sure tvg-chno is used for channel
 ## Channels
 
 Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps apart from Ideal World.
+
+**EDIT: Some of these channels may have been removed, and I haven't gone and removed them from the list below. STV has replaced ITV1, same with the +1 stream.**
 
 ### TV
 
