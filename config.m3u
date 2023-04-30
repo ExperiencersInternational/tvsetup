@@ -229,7 +229,8 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
 #EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT UK
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
+#EXTINF:-1 tvg-chno="808" tvg-id="BloombergTVEurope.uk" status="timeout",Bloomberg 
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/s4c-epg.png" status="blocked",S4C (Welsh)
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
