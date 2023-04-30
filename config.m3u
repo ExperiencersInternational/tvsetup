@@ -34,6 +34,8 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.
 
 #EXTINF:-1 tvg-chno="51" tvg-id="IdealWorldTV.uk" group-title="Shopping",Ideal World (limited)
 https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="TG4.ie" status="timeout",TG4 (Irish)
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 #EXTINF:-1 tvg-chno="84" tvg-id="PBSAmerica.uk" group-title="General",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
