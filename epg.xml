@@ -8,6 +8,9 @@
 <channel id="PlaylistInfo300423.uk">
 <display-name>Update Channel</display-name>
 </channel>
+<channel id="PlaylistInfo010523.uk">
+<display-name>Update Channel</display-name>
+</channel>
 <channel id="BBCLocalRadio.uk">
 <display-name>BBC Local Radio</display-name>
 </channel>
@@ -47,7 +50,12 @@
 <desc lang="en">For the best experience, rescan your channel list to enjoy the newest changes!</desc>
 <category lang="en">Data</category>
 </programme>
-<programme start="20230430000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo300423.uk">
+  <programme start="20230430000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo300423.uk">
+<title lang="en">Update your channel list for the best experience</title>
+<desc lang="en">For the best experience, rescan your channel list to enjoy the newest changes!</desc>
+<category lang="en">Data</category>
+</programme>
+<programme start="20230430000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo010523.uk">
 <title lang="en">Your channel list is up-to-date</title>
 <desc lang="en">It looks like you have the latest updates!</desc>
 <category lang="en">Data</category>
