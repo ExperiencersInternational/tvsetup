@@ -27,11 +27,13 @@ https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
 
-#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty (limited)
+#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="General",QVC Style (limited)
+#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 
+#EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
+https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-id="IdealWorldTV.uk" group-title="Shopping",Ideal World (limited)
 https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="TG4.ie" status="timeout",TG4 (Irish)
@@ -253,9 +255,12 @@ https://csm-e-ces1aeuw1live102-0ad3dd531b3c30bf5.tls1.yospace.com/csm/live/18102
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-chno="913" tvg-id="BBCScotland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcscot-epg.png" status="blocked",BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="950" tvg-id="BBCOneYorksLincs.uk" tvg-name="BBC One Yorks" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Yorks
-http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/t=3840/v=pv14/b=5070016/main.m3u8
-
+#EXTINF:-1 tvg-chno="950" tvg-id="BBCOneYorksLincs.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Yorks
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="951" tvg-id="BBCOneWestMidlands.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One W Mid
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="952" tvg-id="BBCOneWales.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Wales
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-chno="850" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream)
 https://list.iptvcat.com/my_list/s/c9cd3ea95f88f6aeb6b638859f252194.m3u8
