@@ -10,11 +10,33 @@ If you want to add stuff, here's what we need and how you can help out:
 
 ## Rules
 
+### Channel ordering
+
+I hope this is as clear as I can make it. If you find that someone has already added the channel you want to add, but it's a different link, **ALWAYS** position from 850-899.
+
+#### Radio / Audio-only content
+
+* If the channel is broadcast on Freeview, follow the positioning Freeview uses
+* If it's not broadcast on Freeview, put the channel in the range from 740-798
+
+#### Local channels
+
+Unless the Freeview channel number that the channel has been assigned (if it's available on Freeview that is) is only used in the specific region the channel broadcasts in (e.g. TV Warehouse and TG4), follow these steps:
+
+* For channels intended for Wales, position in the 900-909 range
+* For channels intended for Scotland, position in the 910-919 range
+* For all other regions, position in the 920-949 range
+
+For regional BBC One channels (since the HD stream doesn't show local news), position from 950 to 979.
+
+#### All other content
+
+If it's available on Freeview, put it where it would usually go. If it's not, you can occupy the 800-849 range.
+
+### Other rules
+
 Here is a few basic things to take note of when contributing:
 - **DO NOT** add any pay to view channels (e.g. Sky Max), else this risks me getting a cease and desist since I'm not operating free to air channels only
-- Please order it as close to the Freeview guide as possible, if the free to air channel is not usually in the Freeview guide, place it in a free space in the 800s range
 - Please only add channels in the highest quality you can find
-- For local TV channels excluding radio, please list in the 92x to 99x ranges
-- For local radio stations, use Freeview numbers. If multiple channels use the same numbers, use a - to separate the regions (e.g. 735-1 for Radio Gloucestershire and 735-2 for Radio Derby). If a radio station is not broadcast on Freeview, stick to 740-798 in range (technically it could go from 736-798 if I wanted to, but I want to add a clear separator. 799 can't be used since it would usually be BBC Information Channel)
-- For channels intended for Wales, stick to a listing in the 90x range, and for channels intended for Scotland, use a channel number in the 91x range
 - When adding a channel, if you can, try and mention the quality of the channel that you are adding
+- Pornographic content is accepted, but you must also add clear warnings like Freeview does to note that the channel hosts adult content. I cannot review streams due to myself being a minor.
