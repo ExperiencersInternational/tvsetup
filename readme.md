@@ -30,7 +30,7 @@ Please also note that I don't host any of the content apart from the Information
 
 ## Compatibility
 
-**I need to rewrite this all eventually, I'll probably be putting some guides out for compatibility eventually.**
+**I need to rewrite this all eventually, I'll probably be putting some guides on the wiki out for compatibility eventually.**
 
 This service is fully based around the TVirl app for Android TV, it works with all of the features in here perfectly.
 You should steer away from the IPTV smarters pro app for mobile (in fact, plain old VLC is probably better), EPG doesn't work as far as I can see with no subscription, channels don't scan properly and some don't play properly.
