@@ -16,7 +16,7 @@ If your application doesn't automatically add an EPG, add this 48-hour EPG run b
 https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 ```
 
-Most channels are ordered in the Freeview style, so you'll feel right at home.
+Most channels are ordered in the Freeview style, so you'll feel right at home. A few exceptions do apply though.
 
 For update information, follow me over on the fediverse `@experiencersinternational@mstdn.social`.
 
