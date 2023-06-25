@@ -2,7 +2,7 @@
 <channel id="Information.uk">
 <display-name>IPTV Information</display-name>
 </channel>
-<channel id="PlaylistInfo290423.uk">
+<channel id="PlaylistInfo250623.uk">
 <display-name>Update Channel</display-name>
 </channel>
 <channel id="PlaylistInfo300423.uk">
@@ -21,41 +21,41 @@
 <display-name>Russian Today UK</display-name>
 </channel>
 
-<programme start="20230116000001 +0000" stop="20230628235959 +0000" channel="Information.uk">
+<programme start="20230116000001 +0000" stop="20230828235959 +0000" channel="Information.uk">
 <title lang="en">Learn more about this free IPTV service</title>
 <desc lang="en">Learn information on why channels may not be working and how you can contribute to add channels.</desc>
 <category lang="en">Information</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="Heart.uk">
+<programme start="20230213000001 +0000" stop="20230828235959 +0000" channel="Heart.uk">
 <title lang="en">This channel has no EPG support yet</title>
 <desc lang="en">To view programming, please visit the Global Player or Heart websites. More regional programming can be found, but I decided to steer away from it and use the London feed.</desc>
 <category lang="en">Radio</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="BBCLocalRadio.uk">
+<programme start="20230213000001 +0000" stop="20230828235959 +0000" channel="BBCLocalRadio.uk">
 <title lang="en">Your EPG may need an update</title>
 <desc lang="en">To continue viewing, you may need to update your EPG. All BBC Radio stations are being migrated to a working EPG.</desc>
 <category lang="en">Music,Radio</category>
 </programme>
 
-<programme start="20230213000001 +0000" stop="20230628235959 +0000" channel="RTUK.uk">
+<programme start="20230213000001 +0000" stop="20230828235959 +0000" channel="RTUK.uk">
 <title lang="en">This channel has no EPG support</title>
 <desc lang="en">Please note that this channel hosts Russian state-affiliated media content and may contain misinformation.</desc>
 <category lang="en">News</category>
 </programme>
 
-<programme start="20230430000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo290423.uk">
+<programme start="20230430000000 +0000" stop="20230828235959 +0000" channel="PlaylistInfo010523.uk">
 <title lang="en">Update your channel list for the best experience</title>
 <desc lang="en">For the best experience, rescan your channel list to enjoy the newest changes!</desc>
 <category lang="en">Data</category>
 </programme>
-  <programme start="20230430000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo300423.uk">
+  <programme start="20230430000000 +0000" stop="20230828235959 +0000" channel="PlaylistInfo300423.uk">
 <title lang="en">Update your channel list for the best experience</title>
 <desc lang="en">For the best experience, rescan your channel list to enjoy the newest changes!</desc>
 <category lang="en">Data</category>
 </programme>
-<programme start="20230430000000 +0000" stop="20230628235959 +0000" channel="PlaylistInfo010523.uk">
+<programme start="20230430000000 +0000" stop="20230828235959 +0000" channel="PlaylistInfo250623.uk">
 <title lang="en">Your channel list is up-to-date</title>
 <desc lang="en">It looks like you have the latest updates!</desc>
 <category lang="en">Data</category>
