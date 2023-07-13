@@ -30,18 +30,13 @@ Please also note that I don't host any of the content apart from the Information
 
 ## Compatibility
 
-**I need to rewrite this all eventually, I'll probably be putting some guides on the wiki out for compatibility eventually.**
-
-This service is fully based around the TVirl app for Android TV, it works with all of the features in here perfectly.
-You should steer away from the IPTV smarters pro app for mobile (in fact, plain old VLC is probably better), EPG doesn't work as far as I can see with no subscription, channels don't scan properly and some don't play properly.
-
-In order to get correct channel ordering, make sure tvg-chno is used for channel ordering.
+This should work with most applications, but some may be unable to play certain channels correctly (particularly ones using the MPD format). To set it up, follow the guides on the wiki.
 
 ## Channels
 
 Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps apart from Ideal World.
 
-**EDIT: Some of these channels may have been removed, and I haven't gone and removed them from the list below. STV has replaced ITV1, same with the +1 stream.**
+**EDIT: Some of these channels may have been removed, and I haven't gone and removed them from the list below.**
 
 ### TV
 
