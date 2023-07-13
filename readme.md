@@ -49,14 +49,11 @@ Not bothering to write down everything, but this allows easy access to most popu
 |-|-|-|-|
 |1|BBC One|720p|England|
 |2|BBC Two|720p|England|
-|3|ITV1|1080p|West Country (South)|
+|3|STV|1080p|West Scotland|
 |4|Channel 4|1320x1080 (1080p)|Scotland|
 |5|Channel 5**|1080p|N/A|
-|6|ITV2|1080p|N/A|
 |7|BBC Three|720p|England|
 |9|BBC Four|720p|England|
-|10|ITV3|880x720 (720p)|N/A|
-|12|QUEST|1080p|N/A|
 |13|E4|576p|N/A|
 |14|Film4|576p|N/A|
 |15|Channel 4+1|576p|N/A|
@@ -66,12 +63,11 @@ Not bothering to write down everything, but this allows easy access to most popu
 |19|Dave|576p|N/A|
 |20|Drama|576p|N/A|
 |21|5USA|576p|N/A|
-|26|ITV4|576p|N/A|
 |27|Yesterday|576p|N/A|
 |28|ITVBe|576p|N/A|
 |32|5STAR**|576p|N/A|
 |33|5ACTION**|576p|N/A|
-|35|ITV1 +1|576p|Granada|
+|35|STV +1|1080p|West Scotland|
 |37|QVC Beauty|540p|UK|
 |38|QVC Style|540p|UK|
 |84|PBS America|720p|N/A|
@@ -84,14 +80,12 @@ Not bothering to write down everything, but this allows easy access to most popu
 |801|4Music|576p|N/A|
 |805|Now 80s|720p|N/A|
 |807|RT UK*|1080p|UK|
-|910|STV|1080p|West Scotland|
-|911|STV+1|1080p|West Scotland|
 
 `* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available.`
 
 ### Radio
 
-This list only displays channels which only display audio. For other channels which show music, refer to the TV list (if the specified channel has been added to the list that is).
+This list only displays channels which only display audio. For other channels which show music, refer to the TV list (if the specified channel has been added to the list that is). TV guides are currently unavailable for most regional stations, will be trying to fix it soon.
 
 |Channel number|Channel name|Quality|
 |-|-|-|
