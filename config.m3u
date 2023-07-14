@@ -57,7 +57,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_h
 #EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://i.imgur.com/GjICLWN.png" group-title="News" status="online",BBC News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" status="blocked",BBC Parliament
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="235" tvg-id="AlJazeeraEnglish.qa" tvg-url="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
@@ -75,9 +75,8 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 
 #EXTINF:-1 tvg-chno="500" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",TVsetup Intro
 https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
-#EXTINF:-1 tvg-chno="501" tvg-id="PlaylistInfo250623.uk" group-title="Data",Playlist Update Channel
-https://experiencersinternational.github.io/tvsetup/staticch/epgupdatech-static.mp4
-#EXTINF:-1 tvg-chno="950" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",TVsetup Intro
+
+#EXTINF:-1 tvg-chno="950" tvg-id="BBCRegionalChannels.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",TVsetup BBC Regional Channels
 https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
@@ -253,37 +252,49 @@ https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3
 https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv1-west&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2F
 #EXTINF:-1 tvg-chno="35" tvg-id="STVPlus1.uk" status="timeout",STV+1
 https://csm-e-ces1aeuw1live102-0ad3dd531b3c30bf5.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv-plus-1&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2Fstv-plus-1&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=
-#EXTINF:-1 tvg-chno="912" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" status="blocked",BBC Alba (Gaelic)
+#EXTINF:-1 tvg-chno="910" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" status="blocked",BBC Alba (Gaelic)
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-chno="913" tvg-id="BBCScotland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcscot-epg.png" status="blocked",BBC Scotland
+#EXTINF:-1 tvg-chno="911" tvg-id="BBCScotland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcscot-epg.png" status="blocked",BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
 #EXTINF:-1 tvg-chno="951" tvg-id="BBCOneLondon.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One London
-https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="952" tvg-id="BBCOneNorthEastCumbria.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One NE & Cumbria
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="955" tvg-id="BBCOneYorksLincs.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One E Yorks & Lincs
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="956" tvg-id="BBCOneWestMidlands.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One W Mid
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="964" tvg-id="BBCOneScotland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Scotland
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="952" tvg-id="BBCOneNEHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One North East & Cumbria
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="953" tvg-id="BBCOneNWHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One North West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="954" tvg-id="BBCOneYorksHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Yorkshire
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorkshire/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="955" tvg-id="BBCOneYLHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One East Yorkshire & Lincolnshire
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="956" tvg-id="BBCOneWMHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One West Midlands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="957" tvg-id="BBCOneEMHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One East Midlands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="958" tvg-id="BBCOneEHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="959" tvg-id="BBCOneSEHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One South East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="960" tvg-id="BBCOneWHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="961" tvg-id="BBCOneSHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One South
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="962" tvg-id="BBCOneSWHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One South West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="963" tvg-id="BBCOneCIHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Channel Islands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="964" tvg-id="BBCOneScotHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="965" tvg-id="BBCOneWales.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Wales
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="966" tvg-id="BBCOneNorthernIreland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Northern Ireland
+#EXTINF:-1 tvg-chno="965" tvg-id="BBCOneWalesHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Wales
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="966" tvg-id="BBCOneNIHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="968" tvg-id="BBCTwoWales.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two Wales
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="969" tvg-id="BBCTwoNorthernIsland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two Northern Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-chno="850" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream)
-https://list.iptvcat.com/my_list/s/c9cd3ea95f88f6aeb6b638859f252194.m3u8
-#EXTINF:-1 tvg-chno="850-1" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream 2)
-https://list.iptvcat.com/my_list/s/4cf4c3eeb31f346ed4924fe2a4eda095.m3u8
-#EXTINF:-1 tvg-chno="851" tvg-id="Dave.uk" status="blocked",Dave (alternative stream)
-https://list.iptvcat.com/my_list/s/1b6dded3944ab5f4fa11e1401fe6b9be.m3u8
-#EXTINF:-1 tvg-chno="852" tvg-id="Film4.uk" status="blocked",Film4 (alternative stream)
-https://list.iptvcat.com/my_list/s/6df24f2b583b70501d240dc153c3c01e.m3u8
-#EXTINF:-1 tvg-chno="853" tvg-id="GBNews.uk" status="blocked",GBNews (alternative stream)
-https://list.iptvcat.com/my_list/s/f4111eb523f441da59566bd3a5592750.m3u8
-#EXTINF:-1 tvg-chno="854" tvg-id="BBCNews.uk" tvg-url="https://i.imgur.com/GjICLWN.png" group-title="News" status="online",BBC News (alternative stream)
+#EXTINF:-1 tvg-chno="850" tvg-id="BBCNews.uk" tvg-url="https://i.imgur.com/GjICLWN.png" group-title="News" status="online",BBC News (alternative stream)
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
