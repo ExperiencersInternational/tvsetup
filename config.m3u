@@ -225,7 +225,7 @@ https://direct.sharp-stream.com/twruk.mp3
 http://radio.talkradio.co.uk/stream
 #EXTINF:-1 tvg-chno="751" tvg-id="VirginRadio.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/VirginRadio.png/revision/latest?cb=20190729114634" group-title="Radio",Virgin Radio
 http://radio.virginradio.co.uk/stream
-#EXTINF:-1 tvg-chno="752" tvg-id="TimesRadio.uk" tvg-logo="" group-title="Radio",Times Radio
+#EXTINF:-1 tvg-chno="752" tvg-id="TimesRadio.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/TIMES_RADIO_%282020%29.png/revision/latest?cb=20200711195515" group-title="Radio",Times Radio
 http://timesradio.wireless.radio/stream
 
 #EXTINF:-1 tvg-chno="800" tvg-id="France24English.fr" status="timeout",France 24
