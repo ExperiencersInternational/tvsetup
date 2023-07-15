@@ -34,7 +34,7 @@ This should work with most applications, but some may be unable to play certain 
 
 ## Channels
 
-Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps apart from Ideal World.
+Not bothering to write down everything, but this allows easy access to most popular channels. Most TV channels broadcast in 25fps (they may say 50fps, but in reality due to interlacing, it is 25).
 
 **EDIT: Some of these channels may have been removed, and I haven't gone and removed them from the list below.**
 
@@ -69,14 +69,14 @@ Not bothering to write down everything, but this allows easy access to most popu
 |85|Create & Craft|720p|N/A|
 |201|CBBC|720p|N/A|
 |202|CBeebies|720p|N/A|
-|232|BBC Parliament|540p|N/A|
+|232|BBC Parliament|720p|N/A|
 |235|Al Jazeera|1080p|N/A|
 |237|TalkTV|1080p|N/A|
 |801|4Music|576p|N/A|
 |805|Now 80s|720p|N/A|
 |807|RT UK*|1080p|UK|
 
-`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available.`
+`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available. *** Channel confirmed to be region-locked.`
 
 ### Radio
 
