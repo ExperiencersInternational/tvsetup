@@ -228,20 +228,20 @@ http://radio.virginradio.co.uk/stream
 #EXTINF:-1 tvg-chno="752" tvg-id="TimesRadio.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/TIMES_RADIO_%282020%29.png/revision/latest?cb=20200711195515" group-title="Radio",Times Radio
 http://timesradio.wireless.radio/stream
 
-#EXTINF:-1 tvg-chno="800" tvg-id="France24English.fr" status="timeout",France 24
+#EXTINF:-1 tvg-chno="800" tvg-id="France24English.fr" status="timeout",France 24 English
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="801" tvg-id="4Music.uk" status="timeout",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-chno="802" tvg-id="EuronewsEnglish.fr" status="timeout",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-#EXTINF:-1 tvg-chno="804" tvg-id="NHKWorldJapan.jp" status="timeout",NHK World Japan
+#EXTINF:-1 tvg-chno="804" tvg-id="NHKWorldJapan.jp",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-chno="805" tvg-id="Now80s.uk" group-title="Music",Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="806" tvg-id="KissTVUK.uk" group-title="Music",Kiss TV
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
-#EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT UK
+#EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT International
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-chno="808" tvg-id="BloombergTVEurope.uk" status="timeout",Bloomberg 
 https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
@@ -254,9 +254,9 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?y
 
 #EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/s4c-epg.png" status="blocked",S4C (Welsh)
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="STV.uk" status="timeout" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/stv-epg.png",STV
+#EXTINF:-1 tvg-chno="3" tvg-id="STV.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/stv-epg.png",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv1-west&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2F
-#EXTINF:-1 tvg-chno="35" tvg-id="STVPlus1.uk" status="timeout",STV+1
+#EXTINF:-1 tvg-chno="35" tvg-id="STVPlus1.uk",STV+1
 https://csm-e-ces1aeuw1live102-0ad3dd531b3c30bf5.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv-plus-1&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2Fstv-plus-1&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=
 #EXTINF:-1 tvg-chno="910" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" status="blocked",BBC Alba (Gaelic)
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
