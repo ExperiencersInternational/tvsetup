@@ -40,13 +40,15 @@ Not bothering to write down everything, but this allows easy access to most popu
 
 ### TV
 
+This list needs to be reorganised.
+
 |Channel number|Channel name|Quality|Region Area|
 |-|-|-|-|
 |1|BBC One|720p|England|
 |2|BBC Two|720p|England|
-|3|STV|1080p|West Scotland|
+|3|ITV1|1080p|Unknown|
 |4|Channel 4|1320x1080 (1080p)|Scotland|
-|5|Channel 5**|1080p|N/A|
+|5|Channel 5|1080p|N/A|
 |7|BBC Three|720p|England|
 |9|BBC Four|720p|England|
 |13|E4|576p|N/A|
