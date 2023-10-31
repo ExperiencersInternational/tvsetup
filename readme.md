@@ -2,9 +2,9 @@
 
 ## About
 
-A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 140 channels (currently about 110 due to withdrawing some broken channels) from TV to Radio.
+A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 140 channels from TV to Radio.
 
-Get started by adding the playlist link in your application:
+Get started by adding the playlist link in your IPTV application:
 
 ```
 https://experiencersinternational.github.io/tvsetup/config.m3u
@@ -18,13 +18,13 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 
 Most channels are ordered in the Freeview style, so you'll feel right at home. A few exceptions do apply though.
 
-For update information, follow me over on the fediverse `@experiencersinternational@mstdn.social`.
+For update information, follow me over on the fediverse `@experiencersinternational@lethallava.land`.
 
 If you want to contribute, read the [contributing guide](docs/contributing_guide.md) first.
 
 ### Copyright 
 
-Despite it being my best intentions not to host any copyrighted content, due to only focusing on free to air content, there may be a few things that slip through the cracks, and in those cases, please submit a copyright removal request to me, and I will remove the affected content on the list. Please don't just go and file a request to GitHub and take down the entire thing.
+Despite it being my best intentions not to host any copyrighted content, due to only focusing on free to air content, there may be a few things that slip through the cracks, and in those cases, please submit a copyright removal request using the [issue form](https://github.com/ExperiencersInternational/tvsetup/issues/new?assignees=&labels=copyright-takedowns&projects=&template=-copyrightrequest.yml&title=%5B%E2%9A%A0%EF%B8%8F+Takedown+Request%5D%3A+), and I will remove the affected content on the list. Please don't just go and file a request to GitHub and take down the entire thing.
 
 Please also note that I don't host any of the content apart from the Information channel which is a looping video.
 
