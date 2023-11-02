@@ -58,16 +58,16 @@ This list needs to be reorganised. Thanks @dp247 for finding a ton of new workin
 |14|Film4|576p|N/A|
 |15|Channel 4+1|576p|N/A|
 |16|QVC|540p|UK|
-|17|Really|576p|N/A|
+|17|Really**|576p|N/A|
 |18|More4|576p|N/A|
 |19|Dave|576p|N/A|
 |20|Drama|576p|N/A|
 |21|5USA|576p|N/A|
 |27|Yesterday|576p|N/A|
-|28|ITVBe|576p|N/A|
-|32|5STAR**|576p|N/A|
-|33|5ACTION**|576p|N/A|
-|35|STV +1|1080p|West Scotland|
+|28|ITVBe**|576p|N/A|
+|32|5STAR|576p|N/A|
+|33|5ACTION|576p|N/A|
+|35|ITV1+1|1080p|West Scotland|
 |37|QVC Beauty|540p|UK|
 |38|QVC Style|540p|UK|
 |84|PBS America|720p|N/A|
@@ -81,7 +81,7 @@ This list needs to be reorganised. Thanks @dp247 for finding a ton of new workin
 |805|Now 80s|720p|N/A|
 |807|RT UK*|1080p|UK|
 
-`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available. *** Channel confirmed to be region-locked.`
+`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available. Haven't been able to test most things for subtitles yet, and I'm having issues with getting ITV1 and ITV4 to work. *** Channel confirmed to be region-locked.`
 
 ### Radio
 
