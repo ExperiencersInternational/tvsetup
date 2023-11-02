@@ -2,7 +2,7 @@
 
 ## About
 
-A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 140 channels from TV to Radio.
+A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 180 channels from TV to Radio.
 
 Get started by adding the playlist link in your IPTV application:
 
@@ -40,17 +40,20 @@ Not bothering to write down everything, but this allows easy access to most popu
 
 ### TV
 
-This list needs to be reorganised.
+This list needs to be reorganised. Thanks @dp247 for finding a ton of new working links, some of which contain subtitles as well!
 
 |Channel number|Channel name|Quality|Region Area|
 |-|-|-|-|
 |1|BBC One|720p|England|
 |2|BBC Two|720p|England|
 |3|ITV1|1080p|Unknown|
-|4|Channel 4|1320x1080 (1080p)|Scotland|
+|4|Channel 4**|1080p|Unknown|
 |5|Channel 5|1080p|N/A|
 |7|BBC Three|720p|England|
 |9|BBC Four|720p|England|
+|10|ITV3**|1080p|N/A|
+|11|Sky Mix**|1080p|N/A|
+|12|QUEST|1080p|N/A|
 |13|E4|576p|N/A|
 |14|Film4|576p|N/A|
 |15|Channel 4+1|576p|N/A|
