@@ -46,9 +46,10 @@ This list needs to be reorganised. Thanks @dp247 for finding a ton of new workin
 |-|-|-|-|
 |1|BBC One|720p|England|
 |2|BBC Two|720p|England|
-|3|ITV1|1080p|Unknown|
+|3|ITV1**|1080p|Unknown|
 |4|Channel 4**|1080p|Unknown|
 |5|Channel 5|1080p|N/A|
+|6|ITV2|1080p|N/A|
 |7|BBC Three|720p|England|
 |9|BBC Four|720p|England|
 |10|ITV3**|1080p|N/A|
@@ -81,7 +82,7 @@ This list needs to be reorganised. Thanks @dp247 for finding a ton of new workin
 |805|Now 80s|720p|N/A|
 |807|RT UK*|1080p|UK|
 
-`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available. Haven't been able to test most things for subtitles yet, and I'm having issues with getting ITV1 and ITV4 to work. *** Channel confirmed to be region-locked.`
+`* Opinions shared do not represent my own opinions and users should be warned that this channel hosts Russian state-affiliated media. ** Subtitles available. *** Channel confirmed to be region-locked.`
 
 ### Radio
 
