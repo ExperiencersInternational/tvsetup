@@ -29,7 +29,7 @@ http://92.114.85.81:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Channel4Plus1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-05/Channel-4-%2B1-logo.png" group-title="General",Channel 4+1
 http://92.114.85.77:8000/play/a02u
 #EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC
-https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+http://92.114.85.80:8000/play/a01y
 #EXTINF:-1 tvg-chno="17" tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/really-epg.png" group-title="General",Really
 http://92.114.85.80:8000/play/a04x
 #EXTINF:-1 tvg-chno="18" tvg-id="More4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/more4-epg.png" group-title="General",More4
