@@ -24,7 +24,8 @@ Unless the Freeview channel number that the channel has been assigned (if it's a
 
 * For channels intended for Wales, position in the 900-909 range
 * For channels intended for Scotland, position in the 910-919 range
-* For all other regions, position in the 920-949 or 970-999 range
+* For channels intended for Northern Ireland, position in the 920-929 range
+* For all other regions, position in the 930-949 or 970-999 range
 
 #### All other content
 
