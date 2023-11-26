@@ -59,7 +59,7 @@ https://cdnuk001.broadcastcdn.net/KUK-5STAR/playlist.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="5Action.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/512px-5Action_logo.svg.png" group-title="Entertainment",5ACTION
 https://cdnuk001.broadcastcdn.net/KUK-5ACTION/playlist.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ITV1Plus1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1+1-epg.png" group-title="General",ITV1 +1
-http://92.114.85.77:8000/play/a09a
+http://92.114.85.77:8000/play/a096
 #EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style
