@@ -9,7 +9,7 @@ http://92.114.85.77:8000/play/a04y
 #EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch4-epg.png" group-title="General",Channel 4
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png" group-title="General",Channel 5
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
+http://92.114.85.81:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png" tvg-id="ITV2.uk" group-title="General",ITV2
 http://92.114.85.77:8000/play/a041
 #EXTINF:-1 tvg-chno="7" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
@@ -55,9 +55,9 @@ http://92.114.85.77:8000/play/a09n
 #EXTINF:-1 tvg-chno="31" tvg-id="E4Extra.uk" tvg-logo="https://i.imgur.com/vA2j0YP.png",E4 Extra
 http://92.114.85.77:8000/play/a09n
 #EXTINF:-1 tvg-chno="32" tvg-id="5Star.uk" tvg-logo="https://i.imgur.com/PI11s9s.png" group-title="Entertainment",5STAR
-https://cdnuk001.broadcastcdn.net/KUK-5STAR/playlist.m3u8
+http://92.114.85.81:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="5Action.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/512px-5Action_logo.svg.png" group-title="Entertainment",5ACTION
-https://cdnuk001.broadcastcdn.net/KUK-5ACTION/playlist.m3u8
+http://92.114.85.81:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ITV1Plus1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1+1-epg.png" group-title="General",ITV1 +1
 http://92.114.85.77:8000/play/a096
 #EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty
