@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 
 Most channels are ordered in the Freeview style, so you'll feel right at home. A few exceptions do apply though.
 
-For update information, follow me over on the fediverse `@experiencersinternational@lethallava.land`.
+For update information, follow me over on the fediverse `@experiencersinternational@lethallava.land` or join our Matrix room at https://matrix.to/#/#tvsetupupdates:matrix.org
 
 If you want to contribute, read the [contributing guide](docs/contributing_guide.md) first.
 
