@@ -24,7 +24,7 @@ http://94.229.68.210:8062/play/a00f/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="E4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/e4-epg.png" group-title="General",E4
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:-1 tvg-chno="14" tvg-id="Film4.uk" group-title="Film" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/film4-epg.png",Film4
-http://94.229.68.210:8062/play/a03r/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:-1 tvg-chno="15" tvg-id="Channel4Plus1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-05/Channel-4-%2B1-logo.png" group-title="General",Channel 4+1
 http://45.153.35.210:8000/play/UK_channel_4_1_sd/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC
@@ -60,9 +60,9 @@ http://94.229.68.210:8062/play/a01k/index.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ITV1Plus1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1+1-epg.png" group-title="General",ITV1 +1
 http://45.153.35.210:8000/play/UK_itv_1_1_sd/index.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:-1 tvg-chno="39" tvg-id="DMAXUK.uk" tvg-name="DMAX" tvg-logo="https://i.imgur.com/CDsoyjN.png" group-title="Entertainment",DMAX
 http://94.229.68.210:8062/play/a00e/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="QuestRedUK.uk" tvg-name="Quest Red" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2411.png" group-title="Entertainment",Quest Red
