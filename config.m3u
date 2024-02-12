@@ -79,15 +79,15 @@ https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp
 https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio1X.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="Radio",BBC Radio 1Xtra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="702" tvg-id="BBCRadio2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd2-epg.png" group-title="Radio",BBC Radio 2
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="703" tvg-id="BBCRadio3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd3-epg.png" group-title="Radio",BBC Radio 3
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="704" tvg-id="BBCRadio4FM.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" group-title="Radio",BBC Radio 4
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="705" tvg-id="BBCRadio5Live.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" group-title="Radio",BBC Radio 5 Live
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
 #EXTINF:-1 tvg-chno="706" tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" group-title="Radio",BBC Radio 5 Sports Extra
