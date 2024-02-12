@@ -1,5 +1,11 @@
 # TVsetup
 
+> **NOTICE:** I intend to abandon this project once Freely launches. It is a pain to maintain channels especially when sources are constantly changing. I appreciate all your support!
+>
+> You can join the discussion about Freely here: https://github.com/ExperiencersInternational/tvsetup/discussions/25
+>
+> Apologies to anyone watching from abroad, I know this is not the news you want to hear but I expect that Freely will be a better experience for all of us. I won't personally be using the repository again after it launches (I hardly do now, mostly watch YouTube).
+
 ## About
 
 A list of free-to-air, mostly available on Freeview, channels in the UK. Contains over 180 channels from TV to Radio.
