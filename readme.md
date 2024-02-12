@@ -4,7 +4,7 @@
 >
 > You can join the discussion about Freely here: https://github.com/ExperiencersInternational/tvsetup/discussions/25
 >
-> Apologies to anyone watching from abroad, I know this is not the news you want to hear but I expect that Freely will be a better experience for all of us. I won't personally be using the repository again after it launches (I hardly do now, mostly watch YouTube).
+> Apologies to anyone watching from abroad, I know this is not the news you want to hear but I expect that Freely will be a better experience for all of us. I won't personally be using the repository again after it launches (I hardly do now, mostly watch YouTube). If anyone is willing to maintain the repository with pull requests, I would be happy continuing to run this, but otherwise not.
 
 ## About
 
