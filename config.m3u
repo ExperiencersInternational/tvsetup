@@ -6,9 +6,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch4-epg.png" group-title="General",Channel 4
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
+http://176.65.146.105:8011/play/a07w/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png" group-title="General",Channel 5
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
+http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-rec="28" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.m3u8
@@ -16,26 +16,26 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-rec="28" tvg-id="E4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/e4-epg.png" group-title="General",E4
-https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/playlist.m3u8
+http://176.65.146.105:8011/play/E4HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC
-https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/dave-epg.png" group-title="General",Dave
 https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
-https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
 https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-id="TG4.ie" status="timeout",TG4 (Irish)
+#EXTINF:-1 tvg-chno="53" tvg-id="TG4.ie" status="timeout",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker
@@ -89,15 +89,15 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_t
 #EXTINF:-1 tvg-chno="704" tvg-id="BBCRadio4FM.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" group-title="Radio",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="705" tvg-id="BBCRadio5Live.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" group-title="Radio",BBC Radio 5 Live
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-chno="706" tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" group-title="Radio",BBC Radio 5 Sports Extra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-chno="707" tvg-id="BBCRadio6Music.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" group-title="Radio",BBC Radio 6 Music
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-chno="708" tvg-id="BBCRadio4Extra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" group-title="Radio",BBC Radio 4 Extra
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-chno="709" tvg-id="BBCRadioAsianNetwork.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" group-title="Radio",BBC Radio Asian Network
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-chno="710" tvg-id="BBCRadioWorldService.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="Radio",BBC World Service 
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
