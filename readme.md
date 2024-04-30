@@ -1,6 +1,6 @@
 # TVsetup
 
-> **NOTICE:** I intend to abandon this project once Freely launches. It is a pain to maintain channels especially when sources are constantly changing. I appreciate all your support!
+> **NOTICE:** Freely looks close to launch, repository will likely being archived soon with the launch.
 >
 > You can join the discussion about Freely here: https://github.com/ExperiencersInternational/tvsetup/discussions/25
 >
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
 
 Most channels are ordered in the Freeview style, so you'll feel right at home. A few exceptions do apply though.
 
-For update information, follow me over on the fediverse `@experiencersinternational@lethallava.land` or join our Matrix room at https://matrix.to/#/#tvsetupupdates:matrix.org
+For update information, follow me over on the fediverse `@experiencer@lethallava.land` or join our Matrix room at https://matrix.to/#/#tvsetupupdates:matrix.org
 
 If you want to contribute, read the [contributing guide](docs/contributing_guide.md) first.
 
