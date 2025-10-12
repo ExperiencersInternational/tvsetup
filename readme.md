@@ -1,5 +1,7 @@
 # TVsetup
 
+> **NOTICE:** Archived as of 2025-10-12 since I no longer work on this project and I am no longer interested in working on this, no longer really have time for it either as my main focus is on other repos. Thank you.
+
 > **NOTICE:** Freely looks close to launch, repository will likely being archived soon with the launch.
 >
 > You can join the discussion about Freely here: https://github.com/ExperiencersInternational/tvsetup/discussions/25
